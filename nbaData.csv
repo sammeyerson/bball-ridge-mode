@@ -1,0 +1,1196 @@
+Game Number,Date,Home Team,Home Money Line,Home Spread,Home Score,Home W/L,Home Covered,Away Team,Away Money Line,Away Spread,Away Score,Away W/L,Away Covered,Total,Total Covered
+1,2021-10-19,Milwaukee,-130,-1.0,127,W,Y,Brooklyn,100,1.0,104,L,N,236.5,under
+2,2021-10-19,Los Angeles Lakers,-160,-3.5,114,L,N,Golden State,135,3.5,121,W,Y,228.0,over
+3,2021-10-20,Charlotte,105,1.0,123,W,Y,Indiana,-115,-1.0,122,L,N,223.0,over
+4,2021-10-20,Detroit,150,4.0,88,L,N,Chicago,-175,-4.0,94,W,Y,220.0,under
+5,2021-10-20,New York,-130,-2.5,138,W,Y,Boston,100,2.5,134,L,N,217.0,over
+6,2021-10-20,Toronto,-135,2.5,83,L,N,Washington,105,-2.5,98,W,Y,223.0,under
+7,2021-10-20,New Orleans,125,3.5,97,L,N,Philadelphia,-145,-3.5,117,W,Y,226.0,under
+8,2021-10-20,Minnesota,-185,-7.5,124,W,Y,Houston,140,7.5,106,L,N,230.0,push
+9,2021-10-20,Memphis,-177,-8.5,132,W,Y,Cleveland,155,8.5,121,L,N,216.0,over
+10,2021-10-20,San Antonio,-225,-7.0,123,W,Y,Orlando,185,7.0,97,L,N,212.5,over
+11,2021-10-20,Utah,-245,-14.0,107,W,Y,Oklahoma City,190,14.0,86,L,N,222.0,under
+12,2021-10-20,Portland,-210,-6.5,121,L,N,Sacramento,175,6.5,124,W,Y,233.5,over
+13,2021-10-20,Phoenix,-200,-4.5,98,L,N,Denver,150,4.5,110,W,Y,224.5,under
+14,2021-10-21,Atlanta,-125,-2.5,113,W,Y,Dallas,-105,2.5,87,L,N,225.5,under
+15,2021-10-21,Miami,-130,-2.5,137,W,Y,Milwaukee,100,2.5,95,L,N,223.5,over
+16,2021-10-21,Golden State,-159,-5.0,115,W,N,Los Angeles Clippers,135,5.0,113,L,Y,232.0,under
+17,2021-10-22,Cleveland,120,2.5,112,L,N,Charlotte,-140,-2.5,123,W,Y,225.0,over
+18,2021-10-22,Orlando,170,8.5,96,L,N,New York,-230,-8.5,121,W,Y,212.5,over
+19,2021-10-22,Washington,-120,0.0,135,W,Y,Indiana,-110,0.0,134,L,N,226.5,over
+20,2021-10-22,Boston,-300,-7.0,83,L,N,Toronto,250,7.0,115,W,Y,218.0,under
+21,2021-10-22,Philadelphia,135,3.0,109,L,N,Brooklyn,-160,-3.0,114,W,Y,226.0,under
+22,2021-10-22,Chicago,-220,-6.5,128,W,Y,New Orleans,165,6.5,112,L,N,222.5,over
+23,2021-10-22,Houston,-140,-3.0,124,W,Y,Oklahoma City,120,3.0,91,L,N,221.5,under
+24,2021-10-22,Denver,-220,-7.5,102,W,N,San Antonio,165,7.5,96,L,Y,219.0,under
+25,2021-10-22,Los Angeles Lakers,-125,-1.0,105,L,N,Phoenix,-105,1.0,115,W,Y,222.5,under
+26,2021-10-22,Sacramento,210,6.0,101,L,N,Utah,-250,-6.0,110,W,Y,227.0,under
+27,2021-10-23,Cleveland,230,9.0,101,W,Y,Atlanta,-280,-9.0,95,L,N,223.5,under
+28,2021-10-23,Indiana,160,4.5,102,W,Y,Miami,-185,-4.5,91,L,N,226.0,under
+29,2021-10-23,Toronto,116,5.0,95,L,N,Dallas,-132,-5.0,103,W,Y,216.5,under
+30,2021-10-23,Chicago,-210,-6.5,97,W,Y,Detroit,168,6.5,82,L,N,213.5,under
+31,2021-10-23,Minnesota,-275,-7.5,96,W,N,New Orleans,225,7.5,89,L,Y,228.0,under
+32,2021-10-23,San Antonio,146,5.5,111,L,N,Milwaukee,-168,-5.5,121,W,Y,225.5,over
+33,2021-10-23,Portland,-138,-5.5,134,W,Y,Phoenix,115,5.5,105,L,N,230.0,over
+34,2021-10-23,Los Angeles Clippers,-250,-4.0,114,L,N,Memphis,195,4.0,120,W,Y,228.0,over
+35,2021-10-24,Brooklyn,-380,-8.5,95,L,N,Charlotte,290,8.5,111,W,Y,231.5,under
+36,2021-10-24,New York,-750,-12.0,104,L,N,Orlando,500,12.0,110,W,Y,215.0,under
+37,2021-10-24,Houston,185,6.0,97,L,N,Boston,-225,-6.0,107,W,Y,225.5,under
+38,2021-10-24,Oklahoma City,275,7.5,103,L,N,Philadelphia,-350,-7.5,115,W,Y,216.5,over
+39,2021-10-24,Sacramento,135,3.0,107,L,N,Golden State,-160,-3.0,119,W,Y,231.0,under
+40,2021-10-24,Los Angeles Lakers,-250,-6.0,121,W,N,Memphis,210,6.0,118,L,Y,221.0,over
+41,2021-10-25,Charlotte,-105,1.0,129,L,N,Boston,-115,-1.0,140,W,Y,224.0,over
+42,2021-10-25,Indiana,130,3.0,109,L,N,Milwaukee,-150,-3.0,119,W,Y,229.0,under
+43,2021-10-25,Atlanta,-625,-10.5,122,W,Y,Detroit,430,10.5,104,L,N,213.5,over
+44,2021-10-25,Brooklyn,-330,-7.0,104,W,Y,Washington,265,7.0,90,L,N,233.5,under
+45,2021-10-25,Miami,-1600,-14.0,107,W,Y,Orlando,800,14.0,90,L,N,213.5,under
+46,2021-10-25,Toronto,120,2.5,108,L,N,Chicago,-140,-2.5,111,W,Y,212.0,over
+47,2021-10-25,Minnesota,-220,-5.5,98,L,N,New Orleans,180,5.5,107,W,Y,224.5,under
+48,2021-10-25,Denver,-655,-10.5,87,L,N,Cleveland,445,10.5,99,W,Y,220.5,under
+49,2021-10-25,Los Angeles Clippers,-155,-3.5,116,W,Y,Portland,130,3.5,86,L,N,234.5,under
+50,2021-10-26,New York,-120,-1.0,112,W,Y,Philadelphia,100,1.0,99,L,N,217.5,under
+51,2021-10-26,Oklahoma City,340,9.0,98,L,Y,Golden State,-460,-9.0,106,W,N,224.0,under
+52,2021-10-26,Dallas,-700,-11.0,116,W,N,Houston,475,11.0,106,L,Y,220.5,over
+53,2021-10-26,San Antonio,165,4.5,121,L,Y,Los Angeles Lakers,-195,-4.5,125,W,N,220.0,over
+54,2021-10-26,Utah,-320,-7.0,122,W,Y,Denver,260,7.0,110,L,N,219.0,over
+55,2021-10-27,Orlando,200,6.0,111,L,N,Charlotte,-240,-6.0,120,W,Y,217.0,over
+56,2021-10-27,Boston,-180,-4.5,107,L,N,Washington,155,4.5,116,W,Y,227.5,under
+57,2021-10-27,Brooklyn,-200,-5.0,93,L,N,Miami,170,5.0,106,W,Y,219.0,under
+58,2021-10-27,Toronto,100,1.0,118,W,Y,Indiana,-120,-1.0,100,L,N,218.5,under
+59,2021-10-27,New Orleans,200,6.0,99,L,Y,Atlanta,-240,-6.0,102,W,N,221.0,under
+60,2021-10-27,Milwaukee,-275,-6.0,108,L,N,Minnesota,225,6.0,113,W,Y,228.5,under
+61,2021-10-27,Oklahoma City,300,8.0,123,W,Y,Los Angeles Lakers,-395,-8.0,115,L,N,220.5,over
+62,2021-10-27,Phoenix,-370,-8.5,107,L,N,Sacramento,285,8.5,110,W,Y,227.0,under
+63,2021-10-27,Portland,-135,-2.5,116,W,Y,Memphis,115,2.5,96,L,N,235.5,under
+64,2021-10-27,Los Angeles Clippers,-335,-8.0,79,L,N,Cleveland,265,8.0,92,W,Y,217.0,under
+65,2021-10-28,Philadelphia,-565,-10.5,110,W,N,Detroit,400,10.5,102,L,Y,217.5,under
+66,2021-10-28,Washington,105,1.5,122,W,Y,Atlanta,-125,-1.5,111,L,N,222.0,over
+67,2021-10-28,Chicago,-125,-2.0,103,L,N,New York,105,2.0,104,W,Y,216.0,under
+68,2021-10-28,Houston,315,9.0,91,L,N,Utah,-420,-9.0,122,W,Y,223.5,under
+69,2021-10-28,Dallas,-270,-6.0,104,W,N,San Antonio,220,6.0,99,L,Y,221.5,under
+70,2021-10-28,Golden State,-220,-5.0,101,L,N,Memphis,180,5.0,104,W,Y,233.0,under
+71,2021-10-29,Toronto,-350,-8.0,110,W,N,Orlando,275,8.0,109,L,Y,210.0,over
+72,2021-10-29,Brooklyn,-420,-8.0,105,W,N,Indiana,315,8.0,98,L,Y,223.0,under
+73,2021-10-29,Miami,-230,-5.5,114,W,Y,Charlotte,190,5.5,99,L,N,220.5,under
+74,2021-10-29,New Orleans,110,2.0,109,L,N,Sacramento,-130,-2.0,113,W,Y,220.0,over
+75,2021-10-29,Denver,-140,-1.5,106,W,Y,Dallas,120,1.5,75,L,N,219.5,under
+76,2021-10-29,Portland,-137,-2.5,111,W,Y,Los Angeles Clippers,116,2.5,92,L,N,223.0,under
+77,2021-10-29,Los Angeles Lakers,-395,-8.0,113,W,Y,Cleveland,300,8.0,101,L,N,219.5,under
+78,2021-10-30,Washington,-140,-2.0,115,W,Y,Boston,120,2.0,112,L,N,225.0,over
+79,2021-10-30,Detroit,-200,-5.0,110,W,Y,Orlando,170,5.0,103,L,N,205.5,over
+80,2021-10-30,New Orleans,175,5.5,117,L,N,New York,-210,-5.5,123,W,Y,216.0,over
+81,2021-10-30,Indiana,-165,-3.5,94,L,N,Toronto,140,3.5,97,W,Y,214.5,under
+82,2021-10-30,Philadelphia,-160,-3.0,122,W,Y,Atlanta,135,3.0,94,L,N,217.5,under
+83,2021-10-30,Chicago,150,4.0,107,W,Y,Utah,-175,-4.0,99,L,N,217.0,under
+84,2021-10-30,Milwaukee,-300,-7.0,93,L,N,San Antonio,250,7.0,102,W,Y,224.5,under
+85,2021-10-30,Memphis,-135,-2.0,103,L,N,Miami,115,2.0,129,W,Y,217.5,over
+86,2021-10-30,Golden State,-1100,-12.5,103,W,Y,Oklahoma City,650,12.5,82,L,N,220.0,under
+87,2021-10-30,Minnesota,-140,-2.5,91,L,N,Denver,120,2.5,93,W,Y,222.0,under
+88,2021-10-30,Phoenix,-480,-10.0,101,W,N,Cleveland,350,10.0,92,L,Y,217.5,under
+89,2021-10-31,Dallas,-180,-4.5,105,W,Y,Sacramento,155,4.5,99,L,N,219.0,under
+90,2021-10-31,Charlotte,105,1.0,125,W,Y,Portland,-125,-1.0,113,L,N,230.0,over
+91,2021-10-31,Milwaukee,-105,-1.0,95,L,N,Utah,-115,1.0,107,W,Y,224.0,under
+92,2021-10-31,Brooklyn,-950,-13.0,117,W,Y,Detroit,600,13.0,91,L,N,215.0,under
+93,2021-10-31,Los Angeles Lakers,-700,-12.5,95,W,N,Houston,475,12.5,85,L,Y,224.0,under
+94,2021-11-01,Charlotte,-200,-4.5,110,L,N,Cleveland,170,4.5,113,W,Y,224.0,under
+95,2021-11-01,Indiana,-150,-3.5,131,W,Y,San Antonio,130,3.5,118,L,N,219.0,over
+96,2021-11-01,Philadelphia,-130,-6.0,113,W,Y,Portland,110,6.0,103,L,N,220.5,under
+97,2021-11-01,Atlanta,-210,-6.0,118,W,Y,Washington,175,6.0,111,L,N,223.0,over
+98,2021-11-01,Boston,-135,-2.5,114,L,N,Chicago,115,2.5,128,W,Y,217.5,over
+99,2021-11-01,New York,-250,-6.5,104,L,N,Toronto,210,6.5,113,W,Y,212.5,over
+100,2021-11-01,Minnesota,-415,-9.0,97,L,N,Orlando,310,9.0,115,W,Y,214.5,under
+101,2021-11-01,Memphis,-125,-1.5,106,W,Y,Denver,105,1.5,97,L,N,216.0,under
+102,2021-11-01,Los Angeles Clippers,-625,-10.5,99,W,N,Oklahoma City,450,10.5,94,L,Y,213.0,under
+103,2021-11-02,Detroit,170,4.5,89,L,N,Milwaukee,-200,-4.5,117,W,Y,216.5,under
+104,2021-11-02,Dallas,110,2.0,110,L,N,Miami,-130,-2.0,125,W,Y,213.0,over
+105,2021-11-02,Utah,-430,-9.5,119,W,N,Sacramento,320,9.5,113,L,Y,220.0,over
+106,2021-11-02,Phoenix,-605,-11.5,112,W,Y,New Orleans,420,11.5,100,L,N,217.0,under
+107,2021-11-02,Los Angeles Lakers,-575,-10.5,119,W,N,Houston,405,10.5,117,L,Y,218.0,over
+108,2021-11-03,Cleveland,130,3.0,107,W,Y,Portland,-150,-3.0,104,L,N,219.0,under
+109,2021-11-03,Indiana,-130,-2.0,111,W,Y,New York,110,2.0,98,L,N,218.0,under
+110,2021-11-03,Orlando,210,6.0,79,L,N,Boston,-250,-6.0,92,W,Y,215.0,under
+111,2021-11-03,Philadelphia,-140,-2.5,103,W,Y,Chicago,120,2.5,98,L,N,217.5,under
+112,2021-11-03,Washington,-160,-3.0,100,L,N,Toronto,135,3.0,109,W,Y,215.5,under
+113,2021-11-03,Brooklyn,-220,-5.5,117,W,Y,Atlanta,180,5.5,108,L,N,219.0,over
+114,2021-11-03,Memphis,-120,-1.5,108,W,Y,Denver,100,1.5,106,L,N,213.0,over
+115,2021-11-03,Minnesota,-120,-1.5,115,L,N,Los Angeles Clippers,-103,1.5,126,W,Y,217.5,over
+116,2021-11-03,San Antonio,100,1.0,108,L,p,Dallas,-120,-1.0,109,W,p,216.0,over
+117,2021-11-03,Golden State,-240,-6.0,114,W,Y,Charlotte,200,6.0,92,L,N,225.5,under
+118,2021-11-03,Sacramento,-210,-5.5,112,W,Y,New Orleans,175,5.5,99,L,N,218.5,under
+119,2021-11-04,Detroit,200,6.0,98,L,N,Philadelphia,-240,-6.0,109,W,Y,208.5,under
+120,2021-11-04,Atlanta,-105,0.0,98,L,N,Utah,-115,0.0,116,W,Y,220.5,under
+121,2021-11-04,Miami,-300,-8.0,78,L,N,Boston,250,8.0,95,W,Y,215.0,under
+122,2021-11-04,Phoenix,-665,-10.5,123,W,Y,Houston,450,10.5,111,L,N,217.5,over
+123,2021-11-04,Los Angeles Lakers,-1100,-13.0,104,L,N,Oklahoma City,650,13.0,107,W,Y,217.5,under
+124,2021-11-05,Detroit,360,10.0,90,L,Y,Brooklyn,-500,-10.0,96,W,N,211.5,under
+125,2021-11-05,Orlando,135,3.5,89,L,N,San Antonio,-160,-3.5,102,W,Y,212.0,under
+126,2021-11-05,Washington,100,0.0,115,W,Y,Memphis,-120,0.0,87,L,N,225.0,under
+127,2021-11-05,Toronto,-240,-6.0,101,L,N,Cleveland,200,6.0,102,W,Y,212.0,under
+128,2021-11-05,Milwaukee,-210,-4.5,98,L,N,New York,175,4.5,113,W,Y,217.5,under
+129,2021-11-05,Minnesota,120,3.0,84,L,N,Los Angeles Clippers,-148,-3.0,104,W,Y,215.5,under
+130,2021-11-05,Golden State,-430,-9.0,126,W,Y,New Orleans,320,9.0,85,L,N,219.5,under
+131,2021-11-05,Portland,-150,-3.5,110,W,Y,Indiana,130,3.5,106,L,N,223.0,under
+132,2021-11-05,Sacramento,-120,-1.5,140,W,Y,Charlotte,100,1.5,110,L,N,227.0,over
+133,2021-11-06,Denver,-585,-10.5,95,W,N,Houston,410,10.5,94,L,Y,218.0,under
+134,2021-11-06,Miami,-145,-3.5,118,W,N,Utah,125,3.5,115,L,Y,212.5,over
+135,2021-11-06,Chicago,-165,-3.0,105,L,N,Philadelphia,140,3.0,114,W,Y,211.5,over
+136,2021-11-06,Dallas,-195,-5.0,107,W,N,Boston,165,5.0,104,L,Y,214.0,under
+137,2021-11-06,Phoenix,-200,-5.0,121,W,N,Atlanta,170,5.0,117,L,Y,222.0,over
+138,2021-11-06,Portland,-200,-5.0,105,W,Y,Los Angeles Lakers,170,5.0,90,L,N,218.5,under
+139,2021-11-07,Toronto,130,4.0,103,L,N,Brooklyn,-150,-4.0,116,W,Y,211.0,over
+140,2021-11-07,New York,-320,-7.5,109,L,N,Cleveland,260,7.5,126,W,Y,209.0,over
+141,2021-11-07,Orlando,525,12.0,107,W,Y,Utah,-800,-12.0,100,L,N,212.0,under
+142,2021-11-07,Washington,100,3.0,101,W,Y,Milwaukee,-120,-3.0,94,L,N,221.5,under
+143,2021-11-07,Sacramento,-125,-1.5,91,L,N,Indiana,105,1.5,94,W,Y,223.0,under
+144,2021-11-07,Oklahoma City,150,4.5,99,W,Y,San Antonio,-175,-4.5,94,L,N,212.0,under
+145,2021-11-07,Golden State,-900,-13.0,120,W,p,Houston,575,13.0,107,L,p,222.0,over
+146,2021-11-07,Los Angeles Clippers,-210,-5.5,120,W,Y,Charlotte,175,5.5,106,L,N,222.5,over
+147,2021-11-08,Philadelphia,-195,-3.5,96,L,N,New York,165,3.5,103,W,Y,210.5,under
+148,2021-11-08,Chicago,-130,-1.5,118,W,Y,Brooklyn,110,1.5,95,L,N,214.5,under
+149,2021-11-08,Memphis,-230,-5.5,125,W,Y,Minnesota,190,5.5,118,L,N,218.0,over
+150,2021-11-08,Dallas,-430,-8.5,108,W,Y,New Orleans,320,8.5,92,L,N,210.0,under
+151,2021-11-08,Denver,110,1.0,113,W,Y,Miami,-130,-1.0,96,L,N,207.0,over
+152,2021-11-08,Golden State,-145,-3.5,127,W,Y,Atlanta,125,3.5,113,L,N,222.0,over
+153,2021-11-08,Sacramento,125,3.0,104,L,N,Phoenix,-145,-3.0,109,W,Y,223.0,under
+154,2021-11-08,Los Angeles Lakers,-125,-1.5,126,W,Y,Charlotte,105,1.5,123,L,N,225.0,over
+155,2021-11-09,Philadelphia,210,6.5,109,L,N,Milwaukee,-250,-6.5,118,W,Y,222.5,over
+156,2021-11-09,Utah,-350,-8.0,110,W,Y,Atlanta,275,8.0,98,L,N,221.5,under
+157,2021-11-09,Los Angeles Clippers,-143,-3.0,117,W,Y,Portland,120,3.0,109,L,N,221.0,over
+158,2021-11-10,Cleveland,135,3.0,94,L,p,Washington,-160,-3.0,97,W,p,213.5,under
+159,2021-11-10,Orlando,315,9.0,90,L,N,Brooklyn,-420,-9.0,123,W,Y,210.5,over
+160,2021-11-10,Boston,-130,-2.5,104,W,Y,Toronto,110,2.5,88,L,N,211.0,under
+161,2021-11-10,New York,-150,-3.0,100,L,N,Milwaukee,130,3.0,112,W,Y,215.5,under
+162,2021-11-10,Houston,-180,-4.5,104,L,N,Detroit,155,4.5,112,W,Y,210.5,over
+163,2021-11-10,Chicago,-160,-4.5,117,W,Y,Dallas,135,4.5,107,L,N,212.0,over
+164,2021-11-10,Memphis,-195,-5.0,108,L,N,Charlotte,165,5.0,118,W,Y,228.0,under
+165,2021-11-10,New Orleans,-195,-4.5,100,L,N,Oklahoma City,165,4.5,108,W,Y,211.0,under
+166,2021-11-10,San Antonio,-105,-1.0,136,W,Y,Sacramento,-115,1.0,117,L,N,222.0,over
+167,2021-11-10,Denver,135,3.0,101,W,Y,Indiana,-160,-3.0,98,L,N,213.0,under
+168,2021-11-10,Phoenix,-240,-5.5,119,W,Y,Portland,200,5.5,109,L,N,221.0,over
+169,2021-11-10,Golden State,-300,-10.0,123,W,Y,Minnesota,250,10.0,110,L,N,221.0,over
+170,2021-11-10,Los Angeles Lakers,165,4.0,120,W,Y,Miami,-195,-4.0,117,L,N,214.5,over
+171,2021-11-11,Philadelphia,-135,-2.0,109,L,N,Toronto,115,2.0,115,W,Y,213.5,over
+172,2021-11-11,Utah,-500,-9.0,100,L,N,Indiana,360,9.0,111,W,Y,219.5,under
+173,2021-11-11,Los Angeles Clippers,-139,-2.5,112,W,Y,Miami,118,2.5,109,L,N,214.5,over
+174,2021-11-12,Charlotte,100,1.0,104,W,Y,New York,-120,-1.0,96,L,N,225.5,under
+175,2021-11-12,Boston,110,2.0,122,W,Y,Milwaukee,-130,-2.0,113,L,N,214.0,over
+176,2021-11-12,Cleveland,-200,-5.0,98,W,Y,Detroit,170,5.0,78,L,N,203.0,under
+177,2021-11-12,Houston,200,6.5,92,L,N,Portland,-240,-6.5,104,W,Y,223.5,under
+178,2021-11-12,Memphis,-125,-1.0,94,L,N,Phoenix,105,1.0,119,W,Y,221.5,under
+179,2021-11-12,New Orleans,275,7.5,112,L,N,Brooklyn,-350,-7.5,120,W,Y,211.5,over
+180,2021-11-12,Oklahoma City,155,4.0,105,W,Y,Sacramento,-180,-4.0,103,L,N,218.0,under
+181,2021-11-12,San Antonio,115,2.5,109,L,N,Dallas,-135,-2.5,123,W,Y,218.5,over
+182,2021-11-12,Denver,-200,-4.0,105,W,Y,Atlanta,170,4.0,96,L,N,215.5,under
+183,2021-11-12,Golden State,-225,-5.5,119,W,Y,Chicago,185,5.5,93,L,N,221.5,under
+184,2021-11-12,Los Angeles Lakers,-150,-4.5,83,L,N,Minnesota,130,4.5,107,W,Y,226.0,under
+185,2021-11-13,Utah,-330,-7.5,105,L,N,Miami,265,7.5,111,W,Y,213.5,over
+186,2021-11-13,Indiana,-145,-2.5,118,W,Y,Philadelphia,125,2.5,113,L,N,217.5,over
+187,2021-11-13,Orlando,150,4.0,92,L,N,Washington,-175,-4.0,104,W,Y,204.5,under
+188,2021-11-13,New Orleans,125,2.5,112,W,Y,Memphis,-145,-2.5,101,L,N,221.5,under
+189,2021-11-13,Toronto,-370,-9.0,121,L,N,Detroit,285,9.0,127,W,Y,201.5,over
+190,2021-11-13,Cleveland,125,2.5,91,W,Y,Boston,-145,-2.5,89,L,N,202.5,under
+191,2021-11-13,Los Angeles Clippers,-250,-6.5,129,W,Y,Minnesota,205,6.5,102,L,N,222.5,over
+192,2021-11-14,Los Angeles Lakers,-150,-2.5,114,W,Y,San Antonio,130,2.5,106,L,N,223.0,under
+193,2021-11-14,Atlanta,-125,-1.5,120,W,Y,Milwaukee,105,1.5,100,L,N,221.0,under
+194,2021-11-14,Charlotte,175,5.0,106,W,Y,Golden State,-210,-5.0,102,L,N,224.0,under
+195,2021-11-14,Houston,300,9.0,89,L,N,Phoenix,-395,-9.0,115,W,Y,223.0,under
+196,2021-11-14,Oklahoma City,310,9.5,96,L,N,Brooklyn,-415,-9.5,120,W,Y,212.0,over
+197,2021-11-14,Denver,-250,-4.0,124,W,Y,Portland,210,4.0,95,L,N,216.0,over
+198,2021-11-14,Los Angeles Clippers,-155,-3.5,90,L,N,Chicago,130,3.5,100,W,Y,218.0,under
+199,2021-11-15,Cleveland,120,2.5,92,L,N,Boston,-140,-2.5,98,W,Y,199.0,under
+200,2021-11-15,Detroit,165,4.5,107,L,N,Sacramento,-195,-4.5,129,W,Y,212.5,over
+201,2021-11-15,Washington,-145,-2.5,105,W,Y,New Orleans,125,2.5,100,L,N,213.5,under
+202,2021-11-15,Atlanta,-605,-10.0,129,W,Y,Orlando,420,10.0,111,L,N,214.0,over
+203,2021-11-15,New York,-150,-3.0,92,W,Y,Indiana,130,3.0,84,L,N,217.0,under
+204,2021-11-15,Dallas,-180,-4.0,111,W,Y,Denver,155,4.0,101,L,N,209.0,over
+205,2021-11-15,Memphis,-655,-11.0,136,W,Y,Houston,445,11.0,102,L,N,221.0,over
+206,2021-11-15,Minnesota,135,3.0,96,L,p,Phoenix,-160,-3.0,99,W,p,222.0,under
+207,2021-11-15,Oklahoma City,360,9.0,90,L,N,Miami,-500,-9.0,103,W,Y,210.5,under
+208,2021-11-15,Portland,-125,-1.5,118,W,Y,Toronto,105,1.5,113,L,N,212.5,over
+209,2021-11-15,Los Angeles Lakers,-115,-1.0,103,L,N,Chicago,-105,1.0,121,W,Y,219.0,over
+210,2021-11-16,Brooklyn,-150,-3.5,99,L,N,Golden State,130,3.5,117,W,Y,220.5,under
+211,2021-11-16,Utah,-370,-9.0,120,W,Y,Philadelphia,285,9.0,85,L,N,217.0,under
+212,2021-11-16,Los Angeles Clippers,-275,-7.0,106,W,Y,San Antonio,220,7.0,92,L,N,220.0,under
+213,2021-11-17,Charlotte,-125,-2.5,97,W,Y,Washington,105,2.5,87,L,N,215.0,under
+214,2021-11-17,Detroit,210,6.5,97,W,Y,Indiana,-250,-6.5,89,L,N,211.0,under
+215,2021-11-17,Atlanta,-180,-4.0,110,W,Y,Boston,155,4.0,99,L,N,214.0,under
+216,2021-11-17,Brooklyn,-645,-10.5,109,W,N,Cleveland,440,10.5,99,L,Y,207.0,over
+217,2021-11-17,Miami,-415,-8.5,113,W,Y,New Orleans,310,8.5,98,L,N,220.0,under
+218,2021-11-17,New York,-800,-11.5,98,L,N,Orlando,525,11.5,104,W,Y,209.0,under
+219,2021-11-17,Milwaukee,-395,-7.5,109,W,N,Los Angeles Lakers,300,7.5,102,L,Y,215.0,under
+220,2021-11-17,Minnesota,-130,-2.0,107,W,Y,Sacramento,110,2.0,97,L,N,222.5,under
+221,2021-12-01,Indiana,-115,-1.5,111,L,N,Atlanta,-105,1.5,114,W,Y,217.5,over
+222,2021-11-17,Oklahoma City,-165,-3.5,101,W,Y,Houston,140,3.5,89,L,N,211.5,under
+223,2021-12-01,Orlando,335,8.5,108,W,Y,Denver,-455,-8.5,103,L,N,207.5,over
+224,2021-11-17,Phoenix,-360,-8.0,105,W,N,Dallas,280,8.0,98,L,Y,215.5,under
+225,2021-12-01,Washington,-165,-3.0,115,W,Y,Minnesota,140,3.0,107,L,N,216.5,over
+226,2021-11-17,Portland,-140,-2.5,112,W,Y,Chicago,120,2.5,107,L,N,221.0,under
+227,2021-12-01,Boston,-200,-2.5,88,W,N,Philadelphia,170,2.5,87,L,Y,210.5,under
+228,2021-11-18,Cleveland,310,8.5,89,L,N,Golden State,-415,-8.5,104,W,Y,208.0,under
+229,2021-12-01,Miami,-320,-7.5,85,L,N,Cleveland,260,7.5,111,W,Y,204.5,under
+230,2021-11-18,Miami,-300,-7.0,112,W,Y,Washington,250,7.0,97,L,N,210.0,under
+231,2021-12-01,Milwaukee,-370,-8.5,127,W,N,Charlotte,285,8.5,125,L,Y,230.0,over
+232,2021-11-18,Memphis,102,1.5,120,W,Y,Los Angeles Clippers,-121,-1.5,108,L,N,221.0,over
+233,2021-12-01,New Orleans,135,3.5,107,L,N,Dallas,-160,-3.5,139,W,Y,213.5,over
+234,2021-11-18,Minnesota,-125,-2.0,115,W,Y,San Antonio,105,2.0,90,L,N,222.5,under
+235,2021-12-01,Oklahoma City,-150,-3.5,110,L,N,Houston,130,3.5,114,W,Y,211.5,over
+236,2021-11-18,Denver,-340,-8.0,89,L,N,Philadelphia,270,8.0,103,W,Y,209.5,under
+237,2021-12-01,Los Angeles Clippers,-305,-7.5,115,L,N,Sacramento,240,7.5,124,W,Y,215.5,over
+238,2021-11-18,Utah,-480,-9.0,119,W,Y,Toronto,350,9.0,103,L,N,213.0,over
+239,2021-12-02,New York,115,2.0,115,L,N,Chicago,-135,-2.0,119,W,Y,213.5,over
+240,2021-11-19,Charlotte,-140,-2.5,121,W,Y,Indiana,120,2.5,118,L,N,215.5,over
+241,2021-12-02,Toronto,160,4.5,97,W,Y,Milwaukee,-185,-4.5,93,L,N,213.5,under
+242,2021-11-19,Detroit,250,9.5,102,L,Y,Golden State,-300,-9.5,105,W,N,210.0,under
+243,2021-12-02,Memphis,-455,-9.5,152,W,Y,Oklahoma City,335,9.5,79,L,N,215.0,over
+244,2021-11-19,Boston,-120,-2.0,130,W,Y,Los Angeles Lakers,100,2.0,108,L,N,212.5,over
+245,2021-12-02,Phoenix,-1100,-13.0,114,W,N,Detroit,650,13.0,103,L,Y,210.5,over
+246,2021-11-19,Brooklyn,-1100,-12.5,115,W,N,Orlando,650,12.5,113,L,Y,209.0,over
+247,2021-12-02,Portland,-170,-3.5,83,L,N,San Antonio,145,3.5,114,W,Y,221.5,under
+248,2021-11-19,Milwaukee,-1000,-13.0,96,W,N,Oklahoma City,625,13.0,89,L,Y,214.5,under
+249,2021-12-03,Indiana,-220,-5.5,104,L,N,Miami,180,5.5,113,W,Y,208.5,over
+250,2021-11-19,New Orleans,130,3.5,94,W,Y,Los Angeles Clippers,-155,-3.5,81,L,N,215.0,under
+251,2021-12-03,Washington,-180,-4.0,101,L,N,Cleveland,155,4.0,116,W,Y,208.0,over
+252,2021-11-19,Denver,-150,-4.0,108,L,N,Chicago,130,4.0,114,W,Y,211.5,over
+253,2021-12-03,Atlanta,-125,-1.5,96,L,N,Philadelphia,105,1.5,98,W,Y,213.0,under
+254,2021-11-19,Phoenix,-350,-7.5,112,W,Y,Dallas,275,7.5,104,L,N,211.5,over
+255,2021-12-03,Brooklyn,-340,-7.0,110,W,N,Minnesota,270,7.0,105,L,Y,219.5,under
+256,2021-11-19,Sacramento,-170,-3.5,89,L,N,Toronto,145,3.5,108,W,Y,218.0,under
+257,2021-12-03,Houston,-145,-2.5,118,W,N,Orlando,125,2.5,116,L,Y,214.5,over
+258,2021-11-20,New York,-665,-11.0,106,W,N,Houston,450,11.0,99,L,Y,211.5,under
+259,2021-12-03,Dallas,-320,-7.5,91,L,N,New Orleans,260,7.5,107,W,Y,218.5,under
+260,2021-11-20,Indiana,-340,-7.5,111,W,Y,New Orleans,270,7.5,94,L,N,214.5,under
+261,2021-12-03,Utah,-420,-8.5,137,W,N,Boston,315,8.5,130,L,Y,213.5,over
+262,2021-11-20,Washington,100,1.5,103,W,Y,Miami,-120,-1.5,100,L,N,209.0,under
+263,2021-12-03,Golden State,-310,-7.0,118,W,Y,Phoenix,255,7.0,96,L,N,215.5,under
+264,2021-11-20,Atlanta,-240,-6.0,115,W,Y,Charlotte,200,6.0,105,L,N,226.0,under
+265,2021-12-03,Los Angeles Lakers,-115,-1.0,115,L,N,Los Angeles Clippers,-107,1.0,119,W,Y,215.5,over
+266,2021-11-20,Boston,-665,-10.5,111,W,N,Oklahoma City,450,10.5,105,L,Y,205.5,over
+267,2021-12-04,New York,-130,-1.5,99,L,N,Denver,110,1.5,113,W,Y,210.5,over
+268,2021-11-20,Milwaukee,-700,-11.5,117,W,N,Orlando,475,11.5,108,L,Y,212.5,over
+269,2021-12-04,Brooklyn,-150,-3.0,107,L,N,Chicago,130,3.0,111,W,Y,220.0,under
+270,2021-11-20,Minnesota,-125,-1.5,138,W,Y,Memphis,105,1.5,95,L,N,218.5,over
+271,2021-12-04,Milwaukee,-250,-5.5,124,W,Y,Miami,210,5.5,102,L,N,215.5,over
+272,2021-11-20,Portland,-245,-6.0,118,W,Y,Philadelphia,205,6.0,111,L,N,218.0,over
+273,2021-12-04,Dallas,-210,-5.5,90,L,N,Memphis,175,5.5,97,W,Y,217.0,under
+274,2021-11-20,Sacramento,250,7.0,105,L,N,Utah,-300,-7.0,123,W,Y,223.5,over
+275,2021-12-04,Golden State,-420,-10.0,107,L,N,San Antonio,315,10.0,112,W,Y,219.5,under
+276,2021-11-21,Los Angeles Clippers,-157,-3.5,97,W,Y,Dallas,128,3.5,91,L,N,215.5,under
+277,2021-12-04,Portland,105,1.5,117,L,N,Boston,-125,-1.5,145,W,Y,217.5,over
+278,2021-11-21,Detroit,265,7.5,116,L,Y,Los Angeles Lakers,-330,-7.5,121,W,N,209.0,over
+279,2021-12-04,Sacramento,102,1.5,104,W,Y,Los Angeles Clippers,-124,-1.5,99,L,N,216.0,under
+280,2021-11-21,Chicago,-200,-5.5,109,W,Y,New York,170,5.5,103,L,N,210.0,over
+281,2021-12-05,Cleveland,170,5.0,108,L,Y,Utah,-200,-5.0,109,W,N,211.0,over
+282,2021-11-21,Phoenix,-330,-7.5,126,W,Y,Denver,265,7.5,97,L,N,209.5,over
+283,2021-12-05,Atlanta,-350,-7.5,127,L,N,Charlotte,275,7.5,130,W,Y,224.5,over
+284,2021-11-21,Golden State,-330,-7.5,119,W,Y,Toronto,265,7.5,104,L,N,215.5,over
+285,2021-12-05,Toronto,-125,-1.5,102,W,Y,Washington,105,1.5,90,L,N,212.5,under
+286,2021-11-22,Cleveland,265,7.5,112,L,Y,Brooklyn,-330,-7.5,117,W,N,207.5,over
+287,2021-12-05,Houston,130,3.0,118,W,Y,New Orleans,-150,-3.0,108,L,N,223.0,over
+288,2021-11-22,Washington,-165,-4.0,103,L,N,Charlotte,140,4.0,109,W,Y,214.5,under
+289,2021-12-06,Charlotte,220,6.5,124,L,Y,Philadelphia,-270,-6.5,127,W,N,218.5,over
+290,2021-11-22,Atlanta,-655,-11.0,113,W,Y,Oklahoma City,445,11.0,101,L,N,212.0,over
+291,2021-12-06,Detroit,-200,-4.5,103,L,N,Oklahoma City,170,4.5,114,W,Y,206.5,over
+292,2021-11-22,Boston,-800,-12.5,108,W,Y,Houston,525,12.5,90,L,N,211.5,under
+293,2021-12-06,Indiana,-225,-5.5,116,W,Y,Washington,185,5.5,110,L,N,212.5,over
+294,2021-11-22,Chicago,-195,-3.5,77,L,N,Indiana,165,3.5,109,W,Y,208.0,under
+295,2021-12-06,Miami,-195,-4.5,90,L,N,Memphis,165,4.5,105,W,Y,215.5,under
+296,2021-11-22,Milwaukee,-800,-12.5,123,W,Y,Orlando,525,12.5,92,L,N,216.5,under
+297,2021-12-06,Chicago,-180,-4.0,109,W,Y,Denver,155,4.0,97,L,N,214.0,under
+298,2021-11-22,New Orleans,125,2.5,96,L,N,Minnesota,-145,-2.5,110,W,Y,213.5,under
+299,2021-12-06,Milwaukee,-310,-7.5,112,W,Y,Cleveland,255,7.5,104,L,N,213.5,over
+300,2021-11-22,San Antonio,215,5.5,111,L,Y,Phoenix,-260,-5.5,115,W,N,220.0,over
+301,2021-12-06,Minnesota,-130,-1.5,110,L,N,Atlanta,110,1.5,121,W,Y,219.5,over
+302,2021-11-22,Utah,-555,-9.5,118,L,N,Memphis,395,9.5,119,W,Y,222.5,over
+303,2021-12-06,Phoenix,-320,-7.5,108,W,N,San Antonio,260,7.5,104,L,Y,218.5,under
+304,2021-11-22,Sacramento,-145,-2.5,94,L,N,Philadelphia,125,2.5,102,W,Y,216.5,under
+305,2021-12-06,Golden State,-1400,-14.5,126,W,Y,Orlando,750,14.5,95,L,N,215.5,over
+306,2021-11-23,Detroit,335,9.5,92,L,Y,Miami,-455,-9.5,100,W,N,208.0,under
+307,2021-12-06,Portland,110,2.5,90,L,N,Los Angeles Clippers,-134,-2.5,102,W,Y,215.5,under
+308,2021-11-23,New York,-240,-3.5,106,W,Y,Los Angeles Lakers,200,3.5,100,L,N,214.5,under
+309,2021-12-07,Dallas,135,3.0,99,L,p,Brooklyn,-160,-3.0,102,W,p,215.5,under
+310,2021-11-23,Portland,-245,-5.5,119,W,Y,Denver,205,5.5,100,L,N,212.5,over
+311,2021-12-07,San Antonio,120,2.5,109,L,N,New York,-140,-2.5,121,W,Y,212.0,over
+312,2021-11-23,Los Angeles Clippers,-182,-4.5,104,L,N,Dallas,148,4.5,112,W,Y,207.0,over
+313,2021-12-07,Los Angeles Lakers,-150,-2.5,117,W,Y,Boston,130,2.5,102,L,N,217.5,over
+314,2021-11-24,Cleveland,220,7.0,115,L,Y,Phoenix,-270,-7.0,120,W,N,209.0,over
+315,2021-12-08,Charlotte,200,7.0,106,L,Y,Philadelphia,-240,-7.0,110,W,N,217.5,under
+316,2021-11-24,Indiana,-125,-1.5,116,L,N,Los Angeles Lakers,105,1.5,124,W,Y,218.5,over
+317,2021-12-08,Cleveland,-140,-2.5,115,W,Y,Chicago,120,2.5,92,L,N,209.5,under
+318,2021-11-24,Orlando,255,7.5,99,L,Y,Charlotte,-310,-7.5,106,W,N,219.5,under
+319,2021-12-08,Detroit,180,6.0,116,L,Y,Washington,-220,-6.0,119,W,N,208.0,over
+320,2021-11-24,Boston,100,1.0,104,L,N,Brooklyn,-120,-1.0,123,W,Y,215.5,over
+321,2021-12-08,Indiana,-195,-4.5,122,W,Y,New York,165,4.5,102,L,N,212.5,over
+322,2021-11-24,Houston,330,8.5,118,W,Y,Chicago,-445,-8.5,113,L,N,213.5,over
+323,2021-12-08,Miami,215,6.5,113,W,Y,Milwaukee,-260,-6.5,104,L,N,216.5,over
+324,2021-11-24,Milwaukee,-1900,-14.5,114,W,Y,Detroit,900,14.5,93,L,N,214.5,under
+325,2021-12-08,Toronto,-300,-7.0,109,L,N,Oklahoma City,250,7.0,110,W,Y,208.0,over
+326,2021-11-24,Minnesota,110,2.0,113,W,Y,Miami,-130,-2.0,101,L,N,212.5,over
+327,2021-12-08,Houston,205,6.5,114,W,Y,Brooklyn,-245,-6.5,104,L,N,225.0,under
+328,2021-11-24,New Orleans,140,3.5,127,W,Y,Washington,-165,-3.5,102,L,N,209.0,over
+329,2021-12-08,Memphis,-185,-4.5,96,L,N,Dallas,160,4.5,104,W,Y,215.5,under
+330,2021-11-24,Oklahoma City,700,12.5,104,L,Y,Utah,-1200,-12.5,110,W,N,209.0,over
+331,2021-12-08,Minnesota,360,9.5,104,L,N,Utah,-400,-9.5,136,W,Y,220.5,over
+332,2021-11-24,Memphis,-165,-3.5,113,L,N,Toronto,140,3.5,126,W,Y,221.5,over
+333,2021-12-08,New Orleans,120,1.5,114,L,N,Denver,-140,-1.5,120,W,Y,215.0,over
+334,2021-11-24,San Antonio,145,4.0,106,L,N,Atlanta,-170,-4.0,124,W,Y,221.5,over
+335,2021-12-08,Golden State,-1500,-13.5,104,W,N,Portland,775,13.5,94,L,Y,217.5,under
+336,2021-11-24,Golden State,-665,-10.5,116,W,Y,Philadelphia,450,10.5,96,L,N,218.5,under
+337,2021-12-08,Sacramento,-380,-7.0,142,W,Y,Orlando,290,7.0,130,L,N,220.0,over
+338,2021-11-24,Sacramento,125,2.5,125,W,Y,Portland,-145,-2.5,121,L,N,224.0,over
+339,2021-12-08,Los Angeles Clippers,-148,-3.0,114,W,p,Boston,120,3.0,111,L,p,212.5,over
+340,2021-11-26,Los Angeles Clippers,-530,-10.0,107,W,Y,Detroit,390,10.0,96,L,N,206.5,under
+341,2021-12-09,Philadelphia,140,3.5,96,L,N,Utah,-165,-3.5,118,W,Y,217.5,under
+342,2021-11-26,Charlotte,-135,-3.0,133,W,Y,Minnesota,115,3.0,115,L,N,224.5,over
+343,2021-12-09,Memphis,140,3.0,108,W,Y,Los Angeles Lakers,-165,-3.0,95,L,N,221.0,under
+344,2021-11-26,New York,125,3.0,97,L,N,Phoenix,-145,-3.0,118,W,Y,216.5,under
+345,2021-12-09,San Antonio,100,1.5,123,W,Y,Denver,-120,-1.5,111,L,N,214.5,over
+346,2021-11-26,Orlando,320,8.5,88,L,N,Chicago,-430,-8.5,123,W,Y,213.5,under
+347,2021-12-10,Charlotte,-105,1.5,124,W,Y,Sacramento,-115,-1.5,123,L,N,228.0,over
+348,2021-11-26,Indiana,-170,-3.5,114,W,Y,Toronto,145,3.5,97,L,N,213.5,under
+349,2021-12-10,Indiana,-125,-1.5,106,W,Y,Dallas,105,1.5,93,L,N,213.5,under
+350,2021-11-26,Memphis,-115,-2.0,100,L,N,Atlanta,-105,2.0,132,W,Y,224.5,over
+351,2021-12-10,Atlanta,-125,-1.0,105,L,N,Brooklyn,105,1.0,113,W,Y,224.0,under
+352,2021-11-26,Oklahoma City,270,7.5,99,L,Y,Washington,-340,-7.5,101,W,N,208.5,under
+353,2021-12-10,Toronto,-125,-1.5,90,W,Y,New York,105,1.5,87,L,N,209.5,under
+354,2021-11-26,San Antonio,125,2.5,96,W,Y,Boston,-145,-2.5,88,L,N,216.0,under
+355,2021-12-10,Houston,320,7.5,114,L,N,Milwaukee,-430,-7.5,123,W,Y,225.0,over
+356,2021-11-26,Denver,140,3.5,109,L,N,Milwaukee,-165,-3.5,120,W,Y,213.5,over
+357,2021-12-10,Minnesota,-120,-1.0,106,L,N,Cleveland,100,1.0,123,W,Y,212.5,over
+358,2021-11-26,Utah,-750,-12.0,97,L,N,New Orleans,500,12.0,98,W,Y,213.0,under
+359,2021-12-10,New Orleans,-230,-6.0,109,W,Y,Detroit,190,6.0,93,L,N,212.5,under
+360,2021-11-26,Golden State,-260,-6.0,118,W,Y,Portland,215,6.0,103,L,N,224.0,under
+361,2021-12-10,Oklahoma City,200,5.5,95,L,N,Los Angeles Lakers,-240,-5.5,116,W,Y,215.5,under
+362,2021-11-26,Los Angeles Lakers,-340,-7.5,137,L,N,Sacramento,270,7.5,141,W,Y,214.5,over
+363,2021-12-10,Phoenix,-235,-5.5,111,W,Y,Boston,195,5.5,90,L,N,216.5,under
+364,2021-11-27,Philadelphia,-195,-4.5,120,L,N,Minnesota,165,4.5,121,W,Y,218.5,over
+365,2021-12-11,Los Angeles Clippers,-375,-8.5,106,W,N,Orlando,285,8.5,104,L,Y,210.5,under
+366,2021-11-27,Atlanta,-195,-4.0,90,L,N,New York,165,4.0,99,W,Y,218.0,under
+367,2021-12-11,Washington,165,5.0,98,L,N,Utah,-195,-5.0,123,W,Y,218.5,over
+368,2021-11-27,Brooklyn,-135,-3.0,107,L,N,Phoenix,115,3.0,113,W,Y,219.0,over
+369,2021-12-11,Cleveland,-280,-6.5,117,W,Y,Sacramento,230,6.5,103,L,N,216.5,over
+370,2021-11-27,Cleveland,-340,-7.5,105,W,Y,Orlando,270,7.5,92,L,N,203.5,under
+371,2021-12-11,Miami,-115,-1.0,118,W,Y,Chicago,-105,1.0,92,L,N,211.5,under
+372,2021-11-27,Chicago,100,1.0,104,L,N,Miami,-120,-1.0,107,W,Y,212.0,under
+373,2021-12-11,Memphis,-380,-8.5,113,W,N,Houston,290,8.5,106,L,Y,222.0,under
+374,2021-11-27,Houston,180,5.5,146,W,Y,Charlotte,-220,-5.5,143,L,N,222.0,over
+375,2021-12-11,Philadelphia,105,1.5,102,W,Y,Golden State,-125,-1.5,93,L,N,214.5,under
+376,2021-11-27,Dallas,-340,-7.5,114,L,N,Washington,270,7.5,120,W,Y,210.5,over
+377,2021-12-11,San Antonio,100,1.0,112,L,N,Denver,-120,-1.0,127,W,Y,216.5,over
+378,2021-11-27,Utah,-1000,-13.0,127,W,Y,New Orleans,625,13.0,105,L,N,217.0,over
+379,2021-12-12,New York,165,4.5,97,L,N,Milwaukee,-195,-4.5,112,W,Y,217.0,under
+380,2021-11-28,Los Angeles Clippers,106,2.0,90,L,N,Golden State,-129,-2.0,105,W,Y,216.0,under
+381,2021-12-12,Detroit,290,8.5,104,L,N,Brooklyn,-380,-8.5,116,W,Y,211.5,over
+382,2021-11-28,Indiana,125,3.5,100,L,N,Milwaukee,-145,-3.5,118,W,Y,217.5,over
+383,2021-12-12,Oklahoma City,160,4.5,84,L,N,Dallas,-185,-4.5,103,W,Y,210.0,under
+384,2021-11-28,Toronto,-130,-2.0,97,L,N,Boston,110,2.0,109,W,Y,209.5,under
+385,2021-12-12,San Antonio,-140,-2.5,112,W,Y,New Orleans,120,2.5,97,L,N,220.0,under
+386,2021-11-28,Memphis,-115,-1.0,128,W,Y,Sacramento,-105,1.0,101,L,N,225.5,over
+387,2021-12-12,Portland,-125,-1.5,111,L,N,Minnesota,105,1.5,116,W,Y,220.5,over
+388,2021-11-28,Los Angeles Lakers,-605,-10.0,110,W,N,Detroit,420,10.0,106,L,Y,216.5,under
+389,2021-12-12,Los Angeles Lakers,-605,-11.0,106,W,Y,Orlando,420,11.0,94,L,N,220.5,under
+390,2021-11-29,Philadelphia,-1500,-15.5,101,W,N,Orlando,775,15.5,96,L,Y,208.5,under
+391,2021-12-13,Cleveland,-210,-5.0,105,W,Y,Miami,175,5.0,94,L,N,209.0,under
+392,2021-11-29,Miami,-330,-7.5,111,L,N,Denver,265,7.5,120,W,Y,207.5,over
+393,2021-12-13,Indiana,165,4.0,100,L,Y,Golden State,-195,-4.0,102,W,N,214.0,under
+394,2021-11-29,Chicago,-210,-5.5,133,W,Y,Charlotte,175,5.5,119,L,N,225.0,over
+395,2021-12-13,Toronto,-195,-4.5,124,W,Y,Sacramento,165,4.5,101,L,N,220.5,over
+396,2021-11-29,Houston,-140,-2.0,102,W,Y,Oklahoma City,120,2.0,89,L,N,214.5,under
+397,2021-12-13,Atlanta,-700,-11.5,126,L,N,Houston,475,11.5,132,W,Y,228.0,over
+398,2021-11-29,Minnesota,-170,-4.0,100,W,N,Indiana,145,4.0,98,L,Y,217.5,under
+399,2021-12-13,Boston,-120,-1.5,117,W,Y,Milwaukee,100,1.5,103,L,N,217.5,over
+400,2021-11-29,Dallas,-230,-5.5,96,L,N,Cleveland,190,5.5,114,W,Y,207.0,over
+401,2021-12-13,Memphis,130,3.0,126,W,Y,Philadelphia,-150,-3.0,91,L,N,210.0,over
+402,2021-11-29,San Antonio,135,3.5,116,W,Y,Washington,-160,-3.5,99,L,N,214.5,over
+403,2021-12-13,Dallas,-150,-3.5,120,W,Y,Charlotte,130,3.5,96,L,N,219.5,under
+404,2021-11-29,Utah,-320,-7.5,129,W,Y,Portland,260,7.5,107,L,N,223.0,over
+405,2021-12-13,Denver,-195,-4.5,113,W,Y,Washington,165,4.5,107,L,N,215.5,over
+406,2021-11-29,Los Angeles Clippers,-420,-9.0,104,L,N,New Orleans,320,9.0,123,W,Y,207.5,over
+407,2021-12-13,Los Angeles Clippers,100,1.5,111,W,Y,Phoenix,-122,-1.5,95,L,N,212.5,under
+408,2021-11-30,Brooklyn,-240,-6.0,112,W,N,New York,200,6.0,110,L,Y,217.0,over
+409,2021-12-14,Brooklyn,-430,-8.5,131,W,N,Toronto,320,8.5,129,L,Y,216.0,over
+410,2021-11-30,Toronto,-175,-4.5,91,L,N,Memphis,150,4.5,98,W,Y,219.5,under
+411,2021-12-14,New York,145,3.5,96,L,N,Golden State,-170,-3.5,105,W,Y,211.5,under
+412,2021-11-30,Phoenix,-145,-2.5,104,W,Y,Golden State,125,2.5,96,L,N,220.0,under
+413,2021-12-14,Portland,125,2.5,107,L,N,Phoenix,-145,-2.5,111,W,Y,218.0,push
+414,2021-11-30,Portland,-500,-9.5,110,W,Y,Detroit,360,9.5,92,L,N,216.0,under
+415,2021-12-15,Cleveland,-420,-8.5,124,W,Y,Houston,315,8.5,89,L,N,221.0,under
+416,2021-11-30,Sacramento,155,4.0,92,L,N,Los Angeles Lakers,-180,-4.0,117,W,Y,227.0,under
+417,2021-12-15,Orlando,280,7.5,99,L,N,Atlanta,-360,-7.5,111,W,Y,225.0,under
+418,2021-12-15,Philadelphia,-220,-5.5,96,L,N,Miami,180,5.5,101,W,Y,206.0,under
+419,2021-12-15,Dallas,-115,1.0,104,L,N,Los Angeles Lakers,-105,-1.0,107,W,Y,214.0,under
+420,2021-12-15,Milwaukee,100,-1.0,114,W,Y,Indiana,-120,1.0,99,L,N,217.0,under
+421,2021-12-15,Oklahoma City,140,1.5,110,L,N,New Orleans,-165,-1.5,113,W,Y,210.5,over
+422,2021-12-15,San Antonio,-160,-3.5,115,L,N,Charlotte,135,3.5,131,W,Y,228.5,over
+423,2021-12-15,Denver,-180,-4.5,107,L,N,Minnesota,155,4.5,124,W,Y,217.0,over
+424,2021-12-15,Utah,-375,-8.5,124,W,Y,Los Angeles Clippers,285,8.5,103,L,N,215.5,over
+425,2021-12-15,Portland,110,-1.0,103,L,N,Memphis,-130,1.0,113,W,Y,219.0,under
+426,2021-12-15,Sacramento,-105,-1.5,119,W,Y,Washington,-115,1.5,105,L,N,225.5,under
+427,2021-12-16,Indiana,-500,-10.0,122,W,N,Detroit,350,10.0,113,L,Y,211.0,over
+428,2021-12-16,Brooklyn,105,1.5,114,W,Y,Philadelphia,-125,-1.5,105,L,N,216.5,over
+429,2021-12-16,Houston,160,5.0,103,L,N,New York,-200,-5.0,116,W,Y,214.5,over
+430,2021-12-16,Phoenix,-500,-9.5,118,W,Y,Washington,333,9.5,98,L,N,213.5,over
+431,2021-12-17,Orlando,125,3.5,105,L,N,Miami,-154,-3.5,115,W,Y,208.5,over
+432,2021-12-17,Atlanta,-175,-4.0,115,L,N,Denver,140,4.0,133,W,Y,222.5,over
+433,2021-12-17,Boston,125,3.0,107,L,N,Golden State,-154,-3.0,111,W,Y,214.0,over
+434,2021-12-17,New Orleans,135,3.5,116,W,Y,Milwaukee,-167,-3.5,112,L,N,216.5,over
+435,2021-12-17,Utah,-901,-11.5,126,L,N,San Antonio,550,11.5,128,W,Y,223.5,over
+436,2021-12-17,Minnesota,-100,-1.5,110,W,Y,Los Angeles Lakers,-120,1.5,92,L,N,224.5,under
+437,2021-12-17,Portland,-118,-2.0,125,W,Y,Charlotte,-105,2.0,116,L,N,227.5,over
+438,2021-12-17,Sacramento,130,3.5,105,L,N,Memphis,-163,-3.5,124,W,Y,224.5,over
+439,2021-12-18,Detroit,-120,-1.5,107,L,N,Houston,-100,1.5,116,W,Y,209.5,over
+440,2021-12-18,Boston,-200,-4.5,114,W,Y,New York,160,4.5,107,L,N,210.5,over
+441,2021-12-18,Brooklyn,-133,-2.5,93,L,N,Orlando,110,2.5,100,W,Y,215.5,under
+442,2021-12-18,Toronto,170,5.5,119,W,Y,Golden State,-213,-5.5,100,L,N,212.5,over
+443,2021-12-18,Oklahoma City,120,-1.5,104,W,N,Los Angeles Clippers,-150,1.5,103,L,Y,207.5,under
+444,2021-12-18,Milwaukee,-125,-1.5,90,L,N,Cleveland,105,1.5,119,W,Y,209.5,under
+445,2021-12-18,Utah,-752,-11.0,103,L,N,Washington,500,11.0,109,W,Y,220.5,under
+446,2021-12-19,Detroit,240,7.0,100,W,Y,Miami,-290,-7.0,90,L,N,209.0,under
+447,2021-12-19,Memphis,-200,-5.0,100,L,N,Portland,170,5.0,105,W,Y,219.5,under
+448,2021-12-19,Sacramento,150,4.0,121,W,Y,San Antonio,-175,-4.0,114,L,N,227.5,over
+449,2021-12-19,Chicago,-220,-6.0,115,W,N,Los Angeles Lakers,180,6.0,110,L,Y,215.0,over
+450,2021-12-19,Minnesota,-140,-2.5,111,W,Y,Dallas,120,2.5,105,L,N,213.0,over
+451,2021-12-19,Phoenix,-330,-7.5,137,W,Y,Charlotte,265,7.5,106,L,N,230.0,over
+452,2021-12-20,Boston,-160,-3.0,103,L,N,Philadelphia,135,3.0,108,W,Y,213.5,under
+453,2021-12-20,Chicago,-360,-8.5,133,W,Y,Houston,280,8.5,118,L,N,224.5,over
+454,2021-12-20,Memphis,-460,-8.5,99,L,N,Oklahoma City,340,8.5,102,W,Y,211.5,under
+455,2021-12-20,Utah,-800,-12.5,112,W,N,Charlotte,525,12.5,102,L,Y,234.0,under
+456,2021-12-20,Golden State,-950,-13.5,113,W,Y,Sacramento,600,13.5,98,L,N,223.5,under
+457,2021-12-20,Los Angeles Clippers,-225,-5.5,92,L,N,San Antonio,180,5.5,116,W,Y,216.5,under
+458,2021-12-21,Miami,120,2.5,125,W,Y,Indiana,-140,-2.5,96,L,N,208.5,over
+459,2021-12-21,New York,-500,-9.5,105,W,Y,Detroit,360,9.5,91,L,N,207.0,under
+460,2021-12-21,New Orleans,-115,1.0,111,W,Y,Portland,-105,-1.0,97,L,N,219.0,under
+461,2021-12-21,Dallas,100,1.0,114,W,Y,Minnesota,-120,-1.0,102,L,N,212.5,over
+462,2021-12-21,Los Angeles Lakers,255,6.5,90,L,N,Phoenix,-310,-6.5,108,W,Y,219.5,under
+463,2021-12-22,Atlanta,-430,-8.5,98,L,N,Orlando,320,8.5,104,W,Y,215.5,under
+464,2021-12-22,Boston,-270,-5.5,111,W,Y,Cleveland,220,5.5,101,L,N,211.5,over
+465,2021-12-22,Milwaukee,-520,-9.5,126,W,Y,Houston,375,9.5,106,L,N,224.5,over
+466,2021-12-22,Oklahoma City,225,5.5,108,W,Y,Denver,-275,-5.5,94,L,N,214.5,under
+467,2021-12-22,Sacramento,180,5.5,89,L,N,Los Angeles Clippers,-225,-5.5,105,W,Y,219.5,under
+468,2021-12-23,Indiana,-380,-8.5,118,W,Y,Houston,290,8.5,106,L,N,219.5,over
+469,2021-12-23,Orlando,180,5.0,104,L,N,New Orleans,-220,-5.0,110,W,Y,210.0,over
+470,2021-12-23,Philadelphia,-455,-9.5,96,L,N,Atlanta,335,9.5,98,W,Y,214.5,under
+471,2021-12-23,Miami,-530,-11.0,115,W,N,Detroit,380,11.0,112,L,Y,205.5,over
+472,2021-12-23,New York,100,1.0,117,L,N,Washington,-120,-1.0,124,W,Y,210.5,over
+473,2021-12-23,Dallas,175,5.0,95,L,N,Milwaukee,-210,-5.0,102,W,Y,215.5,under
+474,2021-12-23,Denver,-145,-3.5,107,L,N,Charlotte,125,3.5,115,W,Y,229.0,under
+475,2021-12-23,Phoenix,-1400,-15.0,113,W,N,Oklahoma City,750,15.0,101,L,Y,215.0,under
+476,2021-12-23,Utah,-655,-10.5,128,W,Y,Minnesota,445,10.5,116,L,N,225.5,over
+477,2021-12-23,Golden State,-240,-6.0,113,W,Y,Memphis,200,6.0,104,L,N,216.5,over
+478,2021-12-23,Los Angeles Lakers,-125,-1.5,110,L,N,San Antonio,105,1.5,138,W,Y,223.5,over
+479,2021-12-25,New York,-115,-1.0,101,W,Y,Atlanta,-105,1.0,87,L,N,218.5,under
+480,2021-12-25,Milwaukee,-280,-7.0,117,W,N,Boston,230,7.0,113,L,Y,234.0,under
+481,2021-12-25,Phoenix,-165,-3.5,107,L,N,Golden State,145,3.5,116,W,Y,228.5,under
+482,2021-12-25,Los Angeles Lakers,-125,-1.5,115,L,N,Brooklyn,105,1.5,122,W,Y,238.0,under
+483,2021-12-25,Utah,-210,-5.0,120,W,N,Dallas,175,5.0,116,L,Y,224.5,over
+484,2021-12-26,Miami,-430,-8.5,93,W,Y,Orlando,320,8.5,83,L,N,207.5,under
+485,2021-12-26,Cleveland,-290,-6.5,144,W,Y,Toronto,240,6.5,99,L,N,206.5,over
+486,2021-12-26,Washington,135,3.5,96,L,N,Philadelphia,-160,-3.5,117,W,Y,208.5,over
+487,2021-12-26,Sacramento,175,4.5,102,L,N,Memphis,-210,-4.5,127,W,Y,225.5,over
+488,2021-12-26,Oklahoma City,-120,-1.5,117,W,Y,New Orleans,100,1.5,112,L,N,209.5,over
+489,2021-12-26,San Antonio,-500,-10.0,144,W,Y,Detroit,360,10.0,109,L,N,217.5,over
+490,2021-12-26,Chicago,-420,-8.5,113,W,N,Indiana,315,8.5,105,L,Y,216.5,over
+491,2021-12-26,Los Angeles Clippers,135,4.5,100,L,Y,Denver,-167,-4.5,103,W,N,214.5,under
+492,2021-12-27,Charlotte,-260,-6.5,123,W,Y,Houston,215,6.5,99,L,N,235.5,under
+493,2021-12-27,Atlanta,200,6.5,118,L,N,Chicago,-240,-6.5,130,W,Y,208.5,over
+494,2021-12-27,Minnesota,315,9.0,108,W,Y,Boston,-420,-9.0,103,L,N,217.5,under
+495,2021-12-27,San Antonio,250,7.5,104,L,Y,Utah,-300,-7.5,110,W,N,228.5,under
+496,2021-12-27,Phoenix,-380,-8.0,113,L,N,Memphis,290,8.0,114,W,Y,219.0,over
+497,2021-12-27,Portland,-105,0.0,117,L,N,Dallas,-115,0.0,132,W,Y,212.5,over
+498,2021-12-27,Los Angeles Clippers,140,4.5,108,L,N,Brooklyn,-175,-4.5,124,W,Y,213.5,over
+499,2021-12-28,Orlando,650,12.5,110,L,N,Milwaukee,-1100,-12.5,127,W,Y,216.5,over
+500,2021-12-28,Miami,-260,-6.0,119,W,Y,Washington,215,6.0,112,L,N,208.5,over
+501,2021-12-28,Toronto,215,7.0,109,L,Y,Philadelphia,-260,-7.0,114,W,N,211.5,over
+502,2021-12-28,Houston,175,4.5,123,L,N,Los Angeles Lakers,-210,-4.5,132,W,Y,228.5,over
+503,2021-12-28,Minnesota,170,5.0,88,L,N,New York,-200,-5.0,96,W,Y,212.5,under
+504,2021-12-28,New Orleans,200,5.5,108,W,Y,Cleveland,-240,-5.5,104,L,N,213.5,under
+505,2021-12-28,Golden State,-290,-7.5,86,L,N,Denver,240,7.5,89,W,Y,215.5,under
+506,2021-12-28,Sacramento,-210,-5.5,117,W,Y,Oklahoma City,175,5.5,111,L,N,218.5,over
+507,2021-12-29,Detroit,200,6.5,85,L,N,New York,-240,-6.5,94,W,Y,206.5,under
+508,2021-12-29,Indiana,-150,-2.5,108,L,N,Charlotte,130,2.5,116,W,Y,227.5,under
+509,2021-12-29,Boston,-225,-5.5,82,L,N,Los Angeles Clippers,180,5.5,91,W,Y,212.5,under
+510,2021-12-29,Chicago,-420,-8.5,131,W,Y,Atlanta,315,8.5,117,L,N,220.5,over
+511,2021-12-29,Memphis,-210,-4.5,104,W,Y,Los Angeles Lakers,175,4.5,99,L,N,225.5,under
+512,2021-12-29,Phoenix,-2000,-15.0,115,W,Y,Oklahoma City,950,15.0,97,L,N,217.0,under
+513,2021-12-29,Portland,240,6.0,105,L,N,Utah,-290,-6.0,120,W,Y,230.0,under
+514,2021-12-29,Sacramento,105,1.5,95,W,Y,Dallas,-125,-1.5,94,L,N,219.5,under
+515,2021-12-30,Brooklyn,-185,-4.0,102,L,N,Philadelphia,160,4.0,110,W,Y,217.5,under
+516,2021-12-30,Orlando,650,12.5,118,L,N,Milwaukee,-1100,-12.5,136,W,Y,216.5,over
+517,2021-12-30,Washington,-165,-3.5,110,W,Y,Cleveland,140,3.5,93,L,N,212.0,under
+518,2021-12-31,Boston,160,4.0,123,W,Y,Phoenix,-185,-4.0,108,L,N,214.5,over
+519,2021-12-31,Indiana,165,4.0,106,L,Y,Chicago,-195,-4.0,108,W,N,219.0,under
+520,2021-12-31,Sacramento,-105,1.0,96,L,N,Dallas,-115,-1.0,112,W,Y,217.5,under
+521,2021-12-31,Houston,145,4.5,110,L,N,Miami,-170,-4.5,120,W,Y,215.0,over
+522,2021-12-31,Cleveland,-120,-1.0,118,L,N,Atlanta,100,1.0,121,W,Y,215.5,over
+523,2021-12-31,Toronto,-213,-5.5,116,W,Y,Los Angeles Clippers,170,5.5,108,L,N,209.0,over
+524,2021-12-31,Memphis,-260,-6.5,118,W,Y,San Antonio,215,6.5,105,L,N,223.5,under
+525,2021-12-31,Oklahoma City,190,6.5,95,W,Y,New York,-230,-6.5,80,L,N,205.5,under
+526,2021-12-31,Utah,-625,-10.5,120,W,Y,Minnesota,430,10.5,108,L,N,224.0,over
+527,2021-12-31,Los Angeles Lakers,-235,-5.5,139,W,Y,Portland,195,5.5,106,L,N,230.5,over
+528,2022-01-01,Milwaukee,-750,-11.0,136,W,Y,New Orleans,500,11.0,113,L,N,221.5,over
+529,2022-01-01,Detroit,180,5.0,117,W,Y,San Antonio,-220,-5.0,116,L,N,222.5,over
+530,2022-01-01,Washington,120,2.0,119,L,Y,Chicago,-140,-2.0,120,W,N,215.5,over
+531,2022-01-01,Brooklyn,-752,-11.0,116,L,N,Los Angeles Clippers,500,11.0,120,W,Y,213.5,over
+532,2022-01-01,Houston,210,6.0,111,L,N,Denver,-250,-6.0,124,W,Y,222.5,over
+533,2022-01-01,Utah,-220,-4.0,116,L,N,Golden State,180,4.0,123,W,Y,221.5,over
+534,2022-01-02,Toronto,-350,-7.5,120,W,Y,New York,275,7.5,105,L,N,209.5,over
+535,2022-01-02,Boston,-700,-10.5,116,W,N,Orlando,475,10.5,111,L,Y,213.5,over
+536,2022-01-02,Cleveland,-165,-3.5,108,W,Y,Indiana,140,3.5,104,L,N,215.5,under
+537,2022-01-02,Sacramento,140,3.5,115,W,Y,Miami,-165,-3.5,113,L,N,221.5,over
+538,2022-01-02,Charlotte,130,2.5,99,L,N,Phoenix,-150,-2.5,133,W,Y,231.5,over
+539,2022-01-02,Oklahoma City,290,8.5,86,L,N,Dallas,-380,-8.5,95,W,Y,209.5,under
+540,2022-01-02,Los Angeles Lakers,-350,-7.5,108,W,N,Minnesota,275,7.5,103,L,Y,223.5,under
+541,2022-01-03,Philadelphia,-1300,-13.0,133,W,Y,Houston,725,13.0,113,L,N,221.0,over
+542,2022-01-03,Washington,-130,-1.5,124,W,Y,Charlotte,110,1.5,121,L,N,228.5,over
+543,2022-01-03,Brooklyn,-280,-7.0,104,L,N,Memphis,230,7.0,118,W,Y,226.5,under
+544,2022-01-03,Chicago,-1400,-13.0,102,W,N,Orlando,750,13.0,98,L,Y,223.0,under
+545,2022-01-03,Milwaukee,-1700,-15.5,106,L,N,Detroit,850,15.5,115,W,Y,226.0,under
+546,2022-01-03,New Orleans,500,11.0,104,L,p,Utah,-750,-11.0,115,W,p,226.0,under
+547,2022-01-03,Dallas,-165,-3.0,103,W,Y,Denver,140,3.0,89,L,N,213.0,under
+548,2022-01-03,Golden State,-500,-8.5,115,W,N,Miami,360,8.5,108,L,Y,219.0,over
+549,2022-01-03,Portland,180,-5.0,136,W,p,Atlanta,-220,5.0,131,L,p,226.5,over
+550,2022-01-03,Los Angeles Clippers,-133,-2.5,104,L,N,Minnesota,110,2.5,122,W,Y,219.5,over
+551,2022-01-04,Cleveland,-160,-2.5,106,L,N,Memphis,135,2.5,110,W,Y,217.5,under
+552,2022-01-04,Toronto,-240,-5.5,129,W,Y,San Antonio,200,5.5,104,L,N,222.5,over
+553,2022-01-04,New York,-125,-1.5,104,W,Y,Indiana,105,1.5,94,L,N,209.5,under
+554,2022-01-04,New Orleans,270,7.0,110,L,N,Phoenix,-340,-7.0,123,W,Y,218.5,over
+555,2022-01-04,Los Angeles Lakers,-300,-7.5,122,W,Y,Sacramento,250,7.5,114,L,N,228.5,over
+556,2022-01-05,Charlotte,-500,-9.5,140,W,Y,Detroit,360,9.5,111,L,N,227.5,over
+557,2022-01-05,Orlando,275,7.5,106,L,N,Philadelphia,-350,-7.5,116,W,Y,210.0,over
+558,2022-01-05,Washington,-320,-6.5,111,L,N,Houston,260,6.5,114,W,Y,222.5,over
+559,2022-01-05,Boston,-340,-7.5,97,L,N,San Antonio,270,7.5,99,W,Y,221.5,under
+560,2022-01-05,Indiana,270,7.5,121,L,N,Brooklyn,-340,-7.5,129,W,Y,218.5,over
+561,2022-01-05,Dallas,200,5.5,99,W,Y,Golden State,-240,-5.5,82,L,N,211.5,under
+562,2022-01-05,Milwaukee,-380,-8.0,111,L,N,Toronto,290,8.0,117,W,Y,215.5,over
+563,2022-01-05,Minnesota,-380,-7.5,98,W,Y,Oklahoma City,290,7.5,90,L,N,213.5,under
+564,2022-01-05,Denver,200,5.5,109,L,N,Utah,-240,-5.5,115,W,Y,221.5,over
+565,2022-01-05,Portland,-115,-1.0,109,L,N,Miami,-105,1.0,115,W,Y,216.0,over
+566,2022-01-05,Sacramento,-115,-1.0,102,L,N,Atlanta,-105,1.0,108,W,Y,229.5,under
+567,2022-01-06,New York,-105,0.0,108,W,Y,Boston,-115,0.0,105,L,N,210.5,over
+568,2022-01-06,Memphis,-900,-12.5,118,W,Y,Detroit,575,12.5,88,L,N,220.0,under
+569,2022-01-06,New Orleans,140,6.5,101,W,Y,Golden State,-165,-6.5,96,L,N,220.0,under
+570,2022-01-06,Phoenix,-655,-10.5,106,W,Y,Los Angeles Clippers,445,10.5,89,L,N,221.0,under
+571,2022-01-07,Philadelphia,-290,-5.0,119,W,Y,San Antonio,240,5.0,100,L,N,219.0,push
+572,2022-01-07,Brooklyn,-195,-4.5,109,L,N,Milwaukee,165,4.5,121,W,Y,229.5,over
+573,2022-01-07,Toronto,-750,-11.0,122,W,Y,Utah,500,11.0,108,L,N,222.5,over
+574,2022-01-07,Chicago,-280,-6.5,130,W,Y,Washington,230,6.5,122,L,N,220.0,over
+575,2022-01-07,Houston,115,2.0,106,L,N,Dallas,-135,-2.0,130,W,Y,216.5,over
+576,2022-01-07,Oklahoma City,185,5.5,105,L,N,Minnesota,-225,-5.5,135,W,Y,215.0,over
+577,2022-01-07,Denver,-360,-7.0,121,W,Y,Sacramento,280,7.0,111,L,N,222.5,over
+578,2022-01-07,Los Angeles Lakers,-145,-2.5,134,W,Y,Atlanta,125,2.5,118,L,N,225.5,over
+579,2022-01-07,Portland,175,4.5,101,L,N,Cleveland,-210,-4.5,114,W,Y,216.0,under
+580,2022-01-08,Los Angeles Clippers,115,2.0,108,L,N,Memphis,-135,-2.0,123,W,Y,218.0,over
+581,2022-01-08,Charlotte,-115,-1.0,114,W,Y,Milwaukee,-105,1.0,106,L,N,233.0,under
+582,2022-01-08,Detroit,-130,-2.5,97,W,Y,Orlando,110,2.5,92,L,N,210.5,under
+583,2022-01-08,Indiana,130,3.5,125,W,Y,Utah,-150,-3.5,113,L,N,220.5,over
+584,2022-01-08,Boston,-300,-7.0,99,W,Y,New York,250,7.0,75,L,N,208.5,under
+585,2022-01-08,Phoenix,-420,-9.0,100,L,N,Miami,315,9.0,123,W,Y,217.0,over
+586,2022-01-09,Brooklyn,-605,-11.0,121,W,N,San Antonio,420,11.0,119,L,Y,229.0,over
+587,2022-01-09,Los Angeles Clippers,170,4.5,106,W,Y,Atlanta,-200,-4.5,93,L,N,223.5,under
+588,2022-01-09,Orlando,260,6.5,100,L,Y,Washington,-320,-6.5,102,W,N,220.5,under
+589,2022-01-09,Toronto,-350,-7.5,105,W,N,New Orleans,275,7.5,101,L,Y,220.5,under
+590,2022-01-09,Houston,215,5.5,123,L,N,Minnesota,-260,-5.5,141,W,Y,229.0,over
+591,2022-01-09,Oklahoma City,250,7.0,95,L,Y,Denver,-300,-7.0,99,W,N,214.5,under
+592,2022-01-09,Dallas,135,3.5,113,W,Y,Chicago,-160,-3.5,99,L,N,218.5,under
+593,2022-01-09,Golden State,-455,-9.5,96,W,Y,Cleveland,335,9.5,82,L,N,218.0,under
+594,2022-01-09,Portland,105,1.5,103,W,Y,Sacramento,-125,-1.5,88,L,N,225.5,under
+595,2022-01-09,Los Angeles Lakers,-150,-3.0,119,L,N,Memphis,130,3.0,127,W,Y,226.0,over
+596,2022-01-10,Charlotte,125,2.5,103,W,Y,Milwaukee,-145,-2.5,99,L,N,235.0,under
+597,2022-01-10,Detroit,500,11.0,126,W,Y,Utah,-750,-11.0,116,L,N,223.0,over
+598,2022-01-10,Boston,-235,-5.5,101,W,N,Indiana,195,5.5,98,L,Y,216.0,under
+599,2022-01-10,New York,-270,-6.5,111,W,Y,San Antonio,220,6.5,96,L,N,214.0,under
+600,2022-01-10,Houston,420,10.5,91,L,N,Philadelphia,-605,-10.5,111,W,Y,226.5,under
+601,2022-01-10,Portland,420,10.5,114,W,Y,Brooklyn,-605,-10.5,108,L,N,227.5,under
+602,2022-01-10,Sacramento,165,4.5,108,L,Y,Cleveland,-195,-4.5,109,W,N,218.5,under
+603,2022-01-11,Washington,-455,-9.5,122,W,N,Oklahoma City,335,9.5,118,L,Y,216.5,over
+604,2022-01-11,Toronto,145,4.5,95,L,Y,Phoenix,-170,-4.5,99,W,N,223.5,under
+605,2022-01-11,Chicago,-1200,-13.5,133,W,Y,Detroit,700,13.5,87,L,N,220.5,under
+606,2022-01-11,Memphis,115,1.0,116,W,Y,Golden State,-135,-1.0,108,L,N,218.5,over
+607,2022-01-11,New Orleans,135,3.5,128,W,Y,Minnesota,-160,-3.5,125,L,N,227.0,over
+608,2022-01-11,Los Angeles Clippers,120,1.5,87,W,Y,Denver,-140,-1.5,85,L,N,212.5,under
+609,2022-01-12,Indiana,140,3.5,100,L,N,Boston,-165,-3.5,119,W,Y,210.5,over
+610,2022-01-12,Philadelphia,-230,-5.5,98,L,N,Charlotte,190,5.5,109,W,Y,226.5,under
+611,2022-01-12,Washington,-270,-7.5,112,W,N,Orlando,220,7.5,106,L,Y,217.5,over
+612,2022-01-12,Atlanta,-135,-3.5,91,L,N,Miami,115,3.5,115,W,Y,223.5,under
+613,2022-01-12,New York,140,1.5,108,W,Y,Dallas,-165,-1.5,85,L,N,207.0,under
+614,2022-01-12,San Antonio,-230,-6.0,124,L,N,Houston,190,6.0,128,W,Y,232.5,over
+615,2022-01-12,Utah,-280,-6.5,91,L,N,Cleveland,230,6.5,111,W,Y,221.5,under
+616,2022-01-12,Chicago,-125,-1.5,112,L,N,Brooklyn,105,1.5,138,W,Y,227.5,over
+617,2022-01-12,Sacramento,120,2.5,125,W,Y,Los Angeles Lakers,-140,-2.5,116,L,N,230.5,over
+618,2022-01-13,Milwaukee,-130,-2.0,118,W,Y,Golden State,110,2.0,99,L,N,223.5,under
+619,2022-01-13,Memphis,-185,-4.5,116,W,Y,Minnesota,160,4.5,108,L,N,231.5,under
+620,2022-01-13,New Orleans,-150,-3.5,113,W,Y,Los Angeles Clippers,130,3.5,89,L,N,215.0,under
+621,2022-01-13,Brooklyn,-330,-7.0,109,L,N,Oklahoma City,265,7.0,130,W,Y,219.0,over
+622,2022-01-13,Denver,-530,-10.0,140,W,Y,Portland,380,10.0,108,L,N,212.0,over
+623,2022-01-14,Charlotte,-605,-10.5,109,L,N,Orlando,420,10.5,116,W,Y,224.5,over
+624,2022-01-14,Detroit,265,7.5,103,W,Y,Toronto,-330,-7.5,87,L,N,214.0,under
+625,2022-01-14,Indiana,190,5.5,94,L,N,Phoenix,-230,-5.5,112,W,Y,222.0,under
+626,2022-01-14,Philadelphia,-170,-3.0,111,W,Y,Boston,145,3.0,99,L,N,212.0,under
+627,2022-01-14,Chicago,-180,-3.5,96,L,N,Golden State,155,3.5,138,W,Y,222.0,over
+628,2022-01-14,Miami,-220,-4.5,124,W,Y,Atlanta,180,4.5,118,L,N,220.5,over
+629,2022-01-14,San Antonio,145,2.5,109,L,N,Cleveland,-170,-2.5,114,W,Y,224.0,under
+630,2022-01-14,Memphis,-180,-3.0,85,L,N,Dallas,155,3.0,112,W,Y,217.5,under
+631,2022-01-14,Sacramento,-220,-5.0,126,W,Y,Houston,180,5.0,114,L,N,238.5,over
+632,2022-01-15,Milwaukee,-340,-7.5,96,L,N,Toronto,270,7.5,103,W,Y,221.5,under
+633,2022-01-15,Washington,-340,-7.5,110,L,N,Portland,270,7.5,115,W,Y,218.5,over
+634,2022-01-15,Atlanta,-160,-3.0,108,L,N,New York,135,3.0,117,W,Y,213.5,over
+635,2022-01-15,Brooklyn,-340,-7.5,120,W,Y,New Orleans,270,7.5,105,L,N,228.5,under
+636,2022-01-15,Miami,-135,-2.5,98,L,N,Philadelphia,115,2.5,109,W,Y,207.5,under
+637,2022-01-15,Oklahoma City,180,5.0,102,L,p,Cleveland,-220,-5.0,107,W,p,209.5,under
+638,2022-01-15,Boston,-210,-5.0,114,W,N,Chicago,175,5.0,112,L,Y,218.5,over
+639,2022-01-15,San Antonio,-140,-2.5,101,W,Y,Los Angeles Clippers,120,2.5,94,L,N,218.0,under
+640,2022-01-15,Denver,-160,-3.5,133,W,Y,Los Angeles Lakers,135,3.5,96,L,N,224.5,over
+641,2022-01-15,Dallas,-605,-10.5,108,W,Y,Orlando,420,10.5,92,L,N,208.0,under
+642,2022-01-16,Detroit,500,11.5,108,L,N,Phoenix,-750,-11.5,135,W,Y,214.5,over
+643,2022-01-16,Sacramento,-260,-5.5,112,L,N,Houston,215,5.5,118,W,Y,238.0,under
+644,2022-01-16,Minnesota,-225,-4.5,119,W,Y,Golden State,185,4.5,99,L,N,218.5,under
+645,2022-01-16,Denver,165,4.5,102,L,N,Utah,-195,-4.5,125,W,Y,223.5,over
+646,2022-01-17,Boston,-275,-5.5,104,W,Y,New Orleans,225,5.5,92,L,N,217.0,under
+647,2022-01-17,New York,-130,-2.0,87,L,N,Charlotte,110,2.0,97,W,Y,217.0,under
+648,2022-01-17,Washington,130,3.0,117,W,Y,Philadelphia,-150,-3.0,98,L,N,213.5,over
+649,2022-01-17,Cleveland,-150,-3.0,114,W,Y,Brooklyn,130,3.0,107,L,N,220.0,over
+650,2022-01-17,Memphis,-235,-5.5,119,W,Y,Chicago,195,5.5,106,L,N,224.5,over
+651,2022-01-17,Los Angeles Clippers,-130,-1.0,139,W,Y,Indiana,110,1.0,133,L,N,210.0,over
+652,2022-01-17,Atlanta,175,4.0,121,W,Y,Milwaukee,-210,-4.0,114,L,N,230.0,over
+653,2022-01-17,Orlando,-105,1.0,88,L,N,Portland,-115,-1.0,98,W,Y,215.5,under
+654,2022-01-17,Miami,-165,-4.0,104,W,Y,Toronto,140,4.0,99,L,N,209.0,under
+655,2022-01-17,Dallas,-555,-10.5,104,W,N,Oklahoma City,395,10.5,102,L,Y,207.0,under
+656,2022-01-17,San Antonio,175,5.0,107,L,N,Phoenix,-210,-5.0,121,W,Y,224.0,over
+657,2022-01-17,Los Angeles Lakers,185,5.0,101,W,Y,Utah,-225,-5.0,95,L,N,232.0,under
+658,2022-01-18,New York,115,1.5,110,L,N,Minnesota,-135,-1.5,112,W,Y,212.5,over
+659,2022-01-18,Golden State,-1500,-14.5,102,W,Y,Detroit,775,14.5,86,L,N,215.5,under
+660,2022-01-19,Philadelphia,-750,-11.5,123,W,Y,Orlando,500,11.5,110,L,N,211.5,over
+661,2022-01-19,Washington,-130,-1.5,118,L,N,Brooklyn,110,1.5,119,W,Y,230.5,over
+662,2022-01-19,Atlanta,-140,-2.5,134,W,Y,Minnesota,120,2.5,122,L,N,233.0,over
+663,2022-01-19,Boston,-200,-4.5,102,L,N,Charlotte,170,4.5,111,W,Y,220.5,under
+664,2022-01-19,Miami,-430,-8.5,104,W,Y,Portland,320,8.5,92,L,N,215.5,under
+665,2022-01-19,Chicago,135,2.5,117,W,Y,Cleveland,-160,-2.5,104,L,N,218.5,over
+666,2022-01-19,Milwaukee,-275,-6.5,126,W,Y,Memphis,225,6.5,114,L,N,225.5,over
+667,2022-01-19,Dallas,-185,-4.0,102,W,p,Toronto,160,4.0,98,L,p,206.5,under
+668,2022-01-19,San Antonio,-275,-6.5,118,W,Y,Oklahoma City,225,6.5,96,L,N,219.0,under
+669,2022-01-19,Utah,-800,-12.0,111,L,N,Houston,525,12.0,116,W,Y,232.5,under
+670,2022-01-19,Denver,-340,-7.5,130,W,N,Los Angeles Clippers,270,7.5,128,L,Y,212.5,over
+671,2022-01-19,Sacramento,-260,-5.5,131,L,N,Detroit,215,5.5,133,W,Y,220.5,over
+672,2022-01-19,Los Angeles Lakers,-200,-4.5,104,L,N,Indiana,170,4.5,111,W,Y,222.5,under
+673,2022-01-20,New York,-165,-2.5,91,L,N,New Orleans,140,2.5,102,W,Y,210.5,under
+674,2022-01-20,Dallas,130,3.0,101,L,N,Phoenix,-150,-3.0,109,W,Y,213.5,under
+675,2022-01-20,Golden State,-700,-10.5,117,L,N,Indiana,475,10.5,121,W,Y,216.5,over
+676,2022-01-21,Charlotte,-500,-9.5,121,W,Y,Oklahoma City,360,9.5,98,L,N,221.0,under
+677,2022-01-21,Orlando,200,5.5,105,L,N,Los Angeles Lakers,-240,-5.5,116,W,Y,221.0,push
+678,2022-01-21,Philadelphia,-380,-8.5,101,L,N,Los Angeles Clippers,290,8.5,102,W,Y,212.5,under
+679,2022-01-21,Atlanta,-115,-1.0,110,W,Y,Miami,-105,1.0,108,L,N,217.0,over
+680,2022-01-21,Boston,-340,-8.0,105,L,N,Portland,270,8.0,109,W,Y,214.5,under
+681,2022-01-21,Washington,-125,-1.0,105,L,N,Toronto,105,1.0,109,W,Y,216.5,under
+682,2022-01-21,Milwaukee,-430,-9.0,94,W,N,Chicago,320,9.0,90,L,Y,227.5,under
+683,2022-01-21,San Antonio,125,2.5,102,L,N,Brooklyn,-145,-2.5,117,W,Y,235.0,under
+684,2022-01-21,Denver,-175,-4.0,118,L,N,Memphis,150,4.0,122,W,Y,220.0,over
+685,2022-01-21,Utah,-1100,-13.5,111,W,N,Detroit,650,13.5,101,L,Y,218.0,under
+686,2022-01-21,Golden State,-605,-12.0,105,W,N,Houston,420,12.0,103,L,Y,229.0,under
+687,2022-01-22,Milwaukee,-500,-9.5,133,W,N,Sacramento,360,9.5,127,L,Y,230.5,over
+688,2022-01-22,Cleveland,-900,-12.5,94,W,N,Oklahoma City,575,12.5,87,L,Y,209.0,under
+689,2022-01-22,Phoenix,-850,-12.0,113,W,N,Indiana,550,12.0,103,L,Y,217.5,under
+690,2022-01-23,New York,-170,-4.0,110,W,Y,Los Angeles Clippers,145,4.0,102,L,N,206.5,over
+691,2022-01-23,Washington,100,-1.0,87,L,N,Boston,-120,1.0,116,W,Y,217.5,under
+692,2022-01-23,Miami,-170,-4.0,113,W,Y,Los Angeles Lakers,145,4.0,107,L,N,216.5,over
+693,2022-01-23,Orlando,135,3.5,114,W,Y,Chicago,-160,-3.5,95,L,N,215.5,under
+694,2022-01-23,Toronto,-300,-7.5,105,L,N,Portland,250,7.5,114,W,Y,214.5,over
+695,2022-01-23,Charlotte,-150,-3.0,91,L,N,Atlanta,130,3.0,113,W,Y,236.5,under
+696,2022-01-23,San Antonio,100,1.5,109,L,N,Philadelphia,-120,-1.5,115,W,Y,222.5,over
+697,2022-01-23,Dallas,-160,-3.5,104,W,Y,Memphis,135,3.5,91,L,N,216.5,under
+698,2022-01-23,Minnesota,-125,-2.5,136,W,Y,Brooklyn,105,2.5,125,L,N,238.5,over
+699,2022-01-23,Denver,-700,-11.5,117,W,N,Detroit,475,11.5,111,L,Y,217.0,over
+700,2022-01-23,Golden State,-170,-3.5,94,W,N,Utah,145,3.5,92,L,Y,219.0,under
+701,2022-01-24,Cleveland,-290,-7.0,95,W,N,New York,240,7.0,93,L,Y,203.0,under
+702,2022-01-24,New Orleans,-125,-1.5,117,W,Y,Indiana,105,1.5,113,L,N,215.0,over
+703,2022-01-24,Oklahoma City,110,1.5,110,L,Y,Chicago,-130,-1.5,111,W,N,214.5,over
+704,2022-01-24,Phoenix,-430,-9.0,115,W,N,Utah,320,9.0,109,L,Y,222.0,over
+705,2022-01-25,Philadelphia,-230,-5.5,117,W,Y,New Orleans,190,5.5,107,L,N,213.0,over
+706,2022-01-25,Detroit,260,7.0,105,L,Y,Denver,-320,-7.0,110,W,N,219.0,under
+707,2022-01-25,Toronto,-165,-3.0,125,W,Y,Charlotte,140,3.0,113,L,N,221.5,over
+708,2022-01-25,Washington,-210,-5.0,115,L,N,Los Angeles Clippers,175,5.0,116,W,Y,215.5,over
+709,2022-01-25,Boston,-430,-8.5,128,W,Y,Sacramento,320,8.5,75,L,N,219.0,under
+710,2022-01-25,Brooklyn,130,3.5,96,L,N,Los Angeles Lakers,-150,-3.5,106,W,Y,226.0,under
+711,2022-01-25,Houston,140,3.5,104,L,N,San Antonio,-165,-3.5,134,W,Y,235.5,over
+712,2022-01-25,Golden State,-150,-3.5,130,W,Y,Dallas,130,3.5,92,L,N,211.5,over
+713,2022-01-25,Portland,130,3.0,107,L,Y,Minnesota,-150,-3.0,109,W,N,227.5,under
+714,2022-01-26,Cleveland,165,4.5,115,W,Y,Milwaukee,-195,-4.5,99,L,N,216.5,under
+715,2022-01-26,Indiana,105,1.5,126,L,N,Charlotte,-125,-1.5,158,W,Y,225.5,over
+716,2022-01-26,Orlando,100,1.0,102,L,N,Los Angeles Clippers,-120,-1.0,111,W,Y,210.5,over
+717,2022-01-26,Atlanta,-340,-7.5,121,W,Y,Sacramento,270,7.5,104,L,N,233.5,under
+718,2022-01-26,Miami,-270,-6.0,110,W,Y,New York,220,6.0,96,L,N,201.0,over
+719,2022-01-26,Brooklyn,310,9.0,118,L,Y,Denver,-415,-9.0,124,W,N,217.0,over
+720,2022-01-26,Chicago,-545,-9.0,111,W,N,Toronto,390,9.0,105,L,Y,213.5,over
+721,2022-01-26,San Antonio,140,3.5,110,L,N,Memphis,-165,-3.5,118,W,Y,227.5,over
+722,2022-01-26,Utah,170,4.5,97,L,N,Phoenix,-200,-4.5,105,W,Y,220.5,under
+723,2022-01-26,Portland,155,4.0,112,L,N,Dallas,-180,-4.0,132,W,Y,216.5,over
+724,2022-01-27,Philadelphia,-145,-2.0,105,W,Y,Los Angeles Lakers,125,2.0,87,L,N,217.5,under
+725,2022-01-27,Golden State,-240,-5.5,124,W,Y,Minnesota,200,5.5,115,L,N,228.0,over
+726,2022-01-28,Orlando,-140,-2.5,119,W,Y,Detroit,120,2.5,103,L,N,211.5,over
+727,2022-01-28,Charlotte,-290,-6.5,117,W,N,Los Angeles Lakers,240,6.5,114,L,Y,228.5,over
+728,2022-01-28,Atlanta,-130,-2.0,108,W,Y,Boston,110,2.0,92,L,N,218.5,under
+729,2022-01-28,New Orleans,190,6.0,105,L,N,Denver,-230,-6.0,116,W,Y,215.0,over
+730,2022-01-28,Miami,-280,-6.5,121,W,Y,Los Angeles Clippers,230,6.5,114,L,N,210.5,over
+731,2022-01-28,Houston,120,2.0,110,L,N,Portland,-140,-2.0,125,W,Y,232.5,over
+732,2022-01-28,Memphis,-150,-3.0,119,W,Y,Utah,130,3.0,109,L,N,224.5,over
+733,2022-01-28,Oklahoma City,-115,-1.0,110,L,N,Indiana,-105,1.0,113,W,Y,217.0,over
+734,2022-01-28,San Antonio,105,2.0,131,W,Y,Chicago,-125,-2.0,122,L,N,228.0,over
+735,2022-01-28,Phoenix,-500,-9.0,134,W,Y,Minnesota,360,9.0,124,L,N,231.0,over
+736,2022-01-28,Milwaukee,-415,-9.0,123,W,Y,New York,310,9.0,108,L,N,215.0,over
+737,2022-01-29,New Orleans,185,5.5,97,L,N,Boston,-225,-5.5,107,W,Y,214.5,under
+738,2022-01-29,Dallas,-455,-9.5,132,W,Y,Indiana,335,9.5,105,L,N,216.5,over
+739,2022-01-29,Philadelphia,-605,-10.5,103,W,N,Sacramento,420,10.5,101,L,Y,220.5,under
+740,2022-01-29,Miami,-235,-5.5,120,L,N,Toronto,195,5.5,124,W,Y,207.5,over
+741,2022-01-29,Memphis,-245,-5.5,115,W,Y,Washington,205,5.5,95,L,N,227.0,under
+742,2022-01-29,Golden State,-250,-5.5,110,W,N,Brooklyn,210,5.5,106,L,Y,232.0,under
+743,2022-01-30,Atlanta,-330,-7.5,129,W,Y,Los Angeles Lakers,265,7.5,121,L,N,226.0,over
+744,2022-01-30,Charlotte,-220,-5.0,90,L,N,Los Angeles Clippers,180,5.0,115,W,Y,224.5,under
+745,2022-01-30,Chicago,-270,-6.5,130,W,Y,Portland,220,6.5,116,L,N,229.0,over
+746,2022-01-30,Detroit,265,7.5,115,W,Y,Cleveland,-330,-7.5,105,L,N,212.5,over
+747,2022-01-30,Orlando,185,6.5,110,W,Y,Dallas,-225,-6.5,108,L,N,213.0,over
+748,2022-01-30,Milwaukee,-275,-6.5,100,L,N,Denver,225,6.5,136,W,Y,226.5,over
+749,2022-01-30,Minnesota,-105,1.0,126,W,Y,Utah,-115,-1.0,106,L,N,226.5,over
+750,2022-01-30,Phoenix,-800,-12.5,115,W,N,San Antonio,525,12.5,110,L,Y,228.0,under
+751,2022-01-31,Cleveland,-350,-8.0,93,W,N,New Orleans,275,8.0,90,L,Y,210.5,under
+752,2022-01-31,Indiana,-125,-1.5,122,W,Y,Los Angeles Clippers,105,1.5,116,L,N,217.5,over
+753,2022-01-31,Philadelphia,-160,-3.5,122,W,N,Memphis,135,3.5,119,L,Y,219.0,over
+754,2022-01-31,Boston,-150,-3.0,122,W,Y,Miami,130,3.0,92,L,N,209.5,over
+755,2022-01-31,New York,-210,-5.0,116,W,Y,Sacramento,175,5.0,96,L,N,214.5,under
+756,2022-01-31,Atlanta,-135,-2.0,100,L,N,Toronto,115,2.0,106,W,Y,218.5,under
+757,2022-01-31,Houston,420,11.0,108,L,N,Golden State,-605,-11.0,122,W,Y,230.5,under
+758,2022-01-31,Oklahoma City,140,3.5,98,W,Y,Portland,-165,-3.5,81,L,N,217.5,under
+759,2022-02-01,Detroit,-125,-1.5,101,L,N,New Orleans,105,1.5,111,W,Y,214.5,under
+760,2022-02-01,Milwaukee,-750,-11.5,112,W,Y,Washington,500,11.5,98,L,N,223.5,under
+761,2022-02-01,Toronto,-140,-2.5,110,W,Y,Miami,120,2.5,106,L,N,210.5,over
+762,2022-02-01,Chicago,-555,-10.5,126,W,Y,Orlando,395,10.5,115,L,N,218.5,over
+763,2022-02-01,Minnesota,-145,-2.5,130,W,Y,Denver,125,2.5,115,L,N,231.5,over
+764,2022-02-01,San Antonio,130,3.0,120,L,N,Golden State,-150,-3.0,124,W,Y,227.5,over
+765,2022-02-01,Phoenix,-300,-7.0,121,W,Y,Brooklyn,250,7.0,111,L,N,227.0,over
+766,2022-02-02,Indiana,-200,-5.0,118,L,N,Orlando,170,5.0,119,W,Y,219.5,over
+767,2022-02-02,Philadelphia,-500,-9.5,103,L,N,Washington,360,9.5,106,W,Y,216.5,under
+768,2022-02-02,Boston,-210,-4.5,113,W,Y,Charlotte,175,4.5,107,L,N,220.5,under
+769,2022-02-02,New York,140,3.5,108,L,N,Memphis,-165,-3.5,120,W,Y,217.0,over
+770,2022-02-02,Houston,140,3.5,115,W,Y,Cleveland,-165,-3.5,104,L,N,219.5,under
+771,2022-02-02,Dallas,-700,-11.0,114,L,N,Oklahoma City,475,11.0,120,W,Y,208.5,over
+772,2022-02-02,Utah,-130,-2.0,108,W,Y,Denver,110,2.0,104,L,N,226.5,under
+773,2022-02-02,Sacramento,150,4.5,112,W,Y,Brooklyn,-175,-4.5,101,L,N,230.5,under
+774,2022-02-02,Los Angeles Lakers,-175,-3.5,99,W,Y,Portland,150,3.5,94,L,N,222.0,under
+775,2022-02-03,San Antonio,-160,-3.5,95,L,N,Miami,135,3.5,112,W,Y,216.5,under
+776,2022-02-03,Detroit,240,6.5,117,L,N,Minnesota,-290,-6.5,128,W,Y,225.5,over
+777,2022-02-03,Toronto,-160,-2.5,127,W,Y,Chicago,135,2.5,120,L,N,224.5,over
+778,2022-02-03,Atlanta,180,5.5,124,W,Y,Phoenix,-220,-5.5,115,L,N,223.5,over
+779,2022-02-03,Golden State,-1100,-13.0,126,W,N,Sacramento,650,13.0,114,L,Y,221.0,over
+780,2022-02-03,Los Angeles Clippers,-150,-2.5,111,W,N,Los Angeles Lakers,130,2.5,110,L,Y,217.5,over
+781,2022-02-04,Charlotte,-200,-4.5,101,L,N,Cleveland,170,4.5,102,W,Y,218.5,under
+782,2022-02-04,Detroit,270,7.5,93,L,N,Boston,-340,-7.5,102,W,Y,213.5,under
+783,2022-02-04,Indiana,125,2.5,115,L,N,Chicago,-145,-2.5,122,W,Y,231.5,over
+784,2022-02-04,Toronto,-125,-1.5,125,W,Y,Atlanta,105,1.5,114,L,N,214.5,over
+785,2022-02-04,San Antonio,-165,-3.5,131,W,Y,Houston,140,3.5,106,L,N,234.5,over
+786,2022-02-04,Utah,-230,-5.5,125,W,Y,Brooklyn,190,5.5,102,L,N,227.5,under
+787,2022-02-04,Denver,-230,-5.5,105,L,N,New Orleans,190,5.5,113,W,Y,222.5,under
+788,2022-02-04,Dallas,-120,-1.5,107,W,Y,Philadelphia,100,1.5,98,L,N,213.5,under
+789,2022-02-04,Portland,-330,-7.5,93,L,N,Oklahoma City,265,7.5,96,W,Y,214.0,under
+790,2022-02-05,Orlando,265,7.5,115,L,N,Memphis,-330,-7.5,135,W,Y,223.5,over
+791,2022-02-05,Charlotte,140,3.5,86,L,N,Miami,-165,-3.5,104,W,Y,224.5,under
+792,2022-02-05,Washington,275,7.5,80,L,N,Phoenix,-350,-7.5,95,W,Y,223.0,under
+793,2022-02-05,Los Angeles Lakers,-125,-1.5,122,W,Y,New York,105,1.5,115,L,N,212.5,over
+794,2022-02-05,Portland,335,8.5,108,L,N,Milwaukee,-455,-8.5,137,W,Y,226.5,over
+795,2022-02-06,Chicago,110,1.5,108,L,N,Philadelphia,-130,-1.5,119,W,Y,219.5,over
+796,2022-02-05,Sacramento,-280,-6.5,113,W,Y,Oklahoma City,230,6.5,103,L,N,216.5,under
+797,2022-02-06,Minnesota,-655,-11.5,118,W,Y,Detroit,445,11.5,105,L,N,229.5,under
+798,2022-02-06,Denver,-220,-5.5,124,W,Y,Brooklyn,180,5.5,104,L,N,229.5,under
+799,2022-02-06,Cleveland,-230,-5.5,98,W,Y,Indiana,190,5.5,85,L,N,216.5,under
+800,2022-02-06,Orlando,290,7.5,83,L,N,Boston,-380,-7.5,116,W,Y,215.5,under
+801,2022-02-06,Dallas,-145,-2.5,103,W,Y,Atlanta,125,2.5,94,L,N,218.5,under
+802,2022-02-06,Houston,165,4.5,107,L,N,New Orleans,-195,-4.5,120,W,Y,231.0,under
+803,2022-02-06,Los Angeles Clippers,165,4.5,113,L,N,Milwaukee,-195,-4.5,137,W,Y,227.0,over
+804,2022-02-07,Charlotte,115,2.0,101,L,N,Toronto,-135,-2.0,116,W,Y,225.5,under
+805,2022-02-07,Washington,180,5.5,100,L,N,Miami,-220,-5.5,121,W,Y,209.0,over
+806,2022-02-07,Chicago,210,6.0,124,L,Y,Phoenix,-250,-6.0,127,W,N,229.0,over
+807,2022-02-07,Oklahoma City,500,12.0,98,L,p,Golden State,-750,-12.0,110,W,p,212.0,under
+808,2022-02-07,Utah,-330,-7.5,113,W,Y,New York,265,7.5,104,L,N,217.0,push
+809,2022-02-08,Philadelphia,-120,-1.5,109,L,N,Phoenix,100,1.5,114,W,Y,217.5,over
+810,2022-02-08,Atlanta,-800,-13.0,133,W,Y,Indiana,530,13.0,112,L,N,228.0,over
+811,2022-02-08,Brooklyn,370,9.5,91,L,N,Boston,-450,-9.5,126,W,Y,214.0,over
+812,2022-02-08,Memphis,-400,-8.0,135,W,Y,Los Angeles Clippers,350,8.0,109,L,N,226.5,over
+813,2022-02-08,New Orleans,-430,-9.0,110,W,Y,Houston,375,9.0,97,L,N,224.5,under
+814,2022-02-08,Dallas,-500,-11.0,116,W,Y,Detroit,390,11.0,86,L,N,212.0,under
+815,2022-02-08,Denver,-420,-9.0,132,W,Y,New York,340,9.0,115,L,N,221.0,over
+816,2022-02-08,Los Angeles Lakers,130,3.5,116,L,N,Milwaukee,-155,-3.5,131,W,Y,234.0,over
+817,2022-02-08,Portland,105,1.0,95,L,N,Orlando,-125,-1.0,113,W,Y,222.0,under
+818,2022-02-08,Sacramento,250,7.5,114,L,N,Minnesota,-300,-7.5,134,W,Y,235.0,over
+819,2022-02-09,Cleveland,-280,-6.5,105,W,Y,San Antonio,230,6.5,92,L,N,218.0,under
+820,2022-02-09,Charlotte,115,1.5,109,L,N,Chicago,-135,-1.5,121,W,Y,229.5,over
+821,2022-02-09,Oklahoma City,360,9.5,98,L,N,Toronto,-500,-9.5,117,W,Y,208.5,over
+822,2022-02-09,Utah,-145,-2.5,111,W,Y,Golden State,125,2.5,85,L,N,219.5,under
+823,2022-02-09,Portland,270,7.5,107,W,Y,Los Angeles Lakers,-340,-7.5,105,L,N,225.5,under
+824,2022-02-09,Sacramento,335,9.0,132,W,Y,Minnesota,-455,-9.0,119,L,N,233.5,over
+825,2022-02-10,Detroit,500,10.0,107,L,N,Memphis,-750,-10.0,132,W,Y,225.0,over
+826,2022-02-10,Washington,-150,-2.5,113,W,N,Brooklyn,130,2.5,112,L,Y,219.5,over
+827,2022-02-10,New Orleans,170,5.0,97,L,N,Miami,-200,-5.0,112,W,Y,217.0,under
+828,2022-02-10,Houston,280,7.5,120,L,N,Toronto,-360,-7.5,139,W,Y,226.5,over
+829,2022-02-10,Dallas,-320,-7.0,112,W,p,Los Angeles Clippers,260,7.0,105,L,p,216.0,over
+830,2022-02-10,Phoenix,-165,-3.5,131,W,Y,Milwaukee,140,3.5,107,L,N,232.5,over
+831,2022-02-10,Golden State,-555,-9.5,114,L,N,New York,395,9.5,116,W,Y,218.5,over
+832,2022-02-11,Detroit,265,6.5,119,L,N,Charlotte,-330,-6.5,141,W,Y,224.5,over
+833,2022-02-11,Indiana,260,7.0,113,L,p,Cleveland,-320,-7.0,120,W,p,214.5,over
+834,2022-02-11,Philadelphia,-950,-12.5,100,W,Y,Oklahoma City,600,12.5,87,L,N,209.0,under
+835,2022-02-11,Atlanta,-380,-8.0,121,L,N,San Antonio,290,8.0,136,W,Y,232.5,over
+836,2022-02-11,Boston,-210,-5.0,108,W,Y,Denver,175,5.0,102,L,N,217.5,under
+837,2022-02-11,Chicago,-175,-4.0,134,W,Y,Minnesota,150,4.0,122,L,N,241.0,over
+838,2022-02-11,Utah,-900,-12.5,114,W,Y,Orlando,575,12.5,99,L,N,221.5,under
+839,2022-02-12,Portland,170,4.5,112,W,Y,New York,-200,-4.5,103,L,N,218.5,under
+840,2022-02-12,Charlotte,270,6.0,118,L,N,Memphis,-340,-6.0,125,W,Y,234.5,over
+841,2022-02-12,Washington,130,3.0,110,L,N,Sacramento,-150,-3.0,123,W,Y,221.5,over
+842,2022-02-12,New Orleans,-200,-4.5,114,L,N,San Antonio,170,4.5,124,W,Y,224.5,over
+843,2022-02-12,Philadelphia,-180,-4.0,103,W,Y,Cleveland,155,4.0,93,L,N,206.5,under
+844,2022-02-12,Toronto,-165,-3.5,109,L,N,Denver,140,3.5,110,W,Y,222.5,under
+845,2022-02-12,Miami,-605,-11.0,115,W,N,Brooklyn,420,11.0,111,L,Y,220.5,over
+846,2022-02-12,Chicago,-1000,-13.0,106,W,N,Oklahoma City,625,13.0,101,L,Y,220.0,under
+847,2022-02-12,Dallas,-320,-7.0,97,L,N,Los Angeles Clippers,260,7.0,99,W,Y,214.0,under
+848,2022-02-12,Golden State,-310,-7.0,117,W,N,Los Angeles Lakers,255,7.0,115,L,Y,224.0,over
+849,2022-02-12,Phoenix,-1700,-16.0,132,W,Y,Orlando,850,16.0,105,L,N,225.0,over
+850,2022-02-13,Boston,-260,-6.0,105,W,Y,Atlanta,215,6.0,95,L,N,220.5,under
+851,2022-02-13,Indiana,200,6.0,120,L,N,Minnesota,-240,-6.0,129,W,Y,235.5,over
+852,2022-02-14,Washington,-180,-4.0,103,W,Y,Detroit,155,4.0,94,L,N,217.5,under
+853,2022-02-14,Brooklyn,155,4.0,109,W,Y,Sacramento,-180,-4.0,85,L,N,224.5,under
+854,2022-02-14,New York,-360,-8.0,123,L,N,Oklahoma City,280,8.0,127,W,Y,206.0,over
+855,2022-02-14,Chicago,-230,-4.5,120,W,Y,San Antonio,190,4.5,109,L,N,233.5,under
+856,2022-02-14,Milwaukee,-1300,-15.0,107,L,N,Portland,725,15.0,122,W,Y,232.0,under
+857,2022-02-14,New Orleans,170,3.5,120,W,Y,Toronto,-200,-3.5,90,L,N,222.0,under
+858,2022-02-14,Denver,-655,-10.5,121,W,N,Orlando,445,10.5,111,L,Y,225.0,over
+859,2022-02-14,Utah,-1000,-14.0,135,W,Y,Houston,625,14.0,101,L,N,229.5,over
+860,2022-02-14,Los Angeles Clippers,210,5.5,119,W,Y,Golden State,-250,-5.5,104,L,N,222.5,over
+861,2022-02-15,Atlanta,110,1.5,124,W,Y,Cleveland,-130,-1.5,116,L,N,221.0,over
+862,2022-02-15,Miami,-165,-3.0,99,L,N,Dallas,140,3.0,107,W,Y,209.5,under
+863,2022-02-15,Philadelphia,105,1.0,87,L,N,Boston,-125,-1.0,135,W,Y,210.0,over
+864,2022-02-15,Milwaukee,-750,-11.5,128,W,N,Indiana,500,11.5,119,L,Y,232.0,over
+865,2022-02-15,Minnesota,-275,-6.5,126,W,N,Charlotte,225,6.5,120,L,Y,243.5,over
+866,2022-02-15,New Orleans,140,3.5,109,L,N,Memphis,-165,-3.5,121,W,Y,227.5,over
+867,2022-02-15,Phoenix,-950,-12.5,103,W,N,Los Angeles Clippers,600,12.5,96,L,Y,222.0,under
+868,2022-02-16,Orlando,200,6.0,109,L,N,Atlanta,-240,-6.0,130,W,Y,229.5,over
+869,2022-02-16,Boston,-950,-12.5,111,L,N,Detroit,600,12.5,112,W,Y,216.0,over
+870,2022-02-16,Indiana,-115,-1.0,113,W,Y,Washington,-105,1.0,108,L,N,225.5,under
+871,2022-02-16,New York,-185,-4.5,106,L,N,Brooklyn,160,4.5,111,W,Y,217.0,push
+872,2022-02-16,Chicago,-220,-5.5,125,W,Y,Sacramento,180,5.5,118,L,N,232.5,over
+873,2022-02-16,Memphis,-750,-11.5,119,L,N,Portland,500,11.5,123,W,Y,228.0,over
+874,2022-02-16,Minnesota,-105,1.0,91,L,N,Toronto,-115,-1.0,103,W,Y,229.5,under
+875,2022-02-16,Oklahoma City,260,7.5,106,L,N,San Antonio,-320,-7.5,114,W,Y,218.0,over
+876,2022-02-16,Phoenix,-1500,-15.5,124,W,N,Houston,775,15.5,121,L,Y,234.0,over
+877,2022-02-16,Golden State,-225,-5.5,116,L,N,Denver,185,5.5,117,W,Y,225.5,over
+878,2022-02-16,Los Angeles Lakers,180,5.5,106,W,Y,Utah,-220,-5.5,101,L,N,226.0,under
+879,2022-02-17,Charlotte,175,4.5,107,L,Y,Miami,-210,-4.5,111,W,N,226.5,under
+880,2022-02-17,Brooklyn,-185,-4.0,103,L,N,Washington,160,4.0,117,W,Y,218.0,over
+881,2022-02-17,New Orleans,135,3.0,118,L,N,Dallas,-160,-3.0,125,W,Y,215.5,over
+882,2022-02-17,Milwaukee,-235,-6.0,120,L,N,Philadelphia,195,6.0,123,W,Y,223.0,over
+883,2022-02-17,Los Angeles Clippers,-605,-10.0,142,W,Y,Houston,420,10.0,111,L,N,228.5,over
+884,2022-02-24,Detroit,315,8.5,106,W,Y,Cleveland,-420,-8.5,103,L,N,210.0,under
+885,2022-02-24,Brooklyn,155,4.0,106,L,N,Boston,-180,-4.0,129,W,Y,213.5,over
+886,2022-02-24,Chicago,-175,-4.0,112,W,p,Atlanta,150,4.0,108,L,p,234.5,under
+887,2022-02-24,Minnesota,115,2.0,119,W,Y,Memphis,-135,-2.0,114,L,N,239.0,under
+888,2022-02-24,Oklahoma City,400,10.0,104,L,N,Phoenix,-565,-10.0,124,W,Y,213.5,over
+889,2022-02-24,Portland,220,6.5,95,L,N,Golden State,-270,-6.5,132,W,Y,223.0,over
+890,2022-02-24,Sacramento,160,4.5,110,L,N,Denver,-185,-4.5,128,W,Y,229.0,over
+891,2022-02-25,Charlotte,110,1.5,125,W,Y,Toronto,-130,-1.5,93,L,N,225.5,under
+892,2022-02-25,Indiana,-290,-7.0,125,L,N,Oklahoma City,240,7.0,129,W,Y,216.5,over
+893,2022-02-25,Orlando,-175,-4.0,119,W,Y,Houston,150,4.0,111,L,N,228.5,over
+894,2022-02-25,Washington,110,1.5,153,L,N,San Antonio,-130,-1.5,157,W,Y,225.0,over
+895,2022-02-25,New York,165,-4.5,100,L,N,Miami,-195,4.5,115,W,Y,211.0,over
+896,2022-02-25,Minnesota,110,-1.0,102,L,N,Philadelphia,-130,1.0,133,W,Y,227.0,over
+897,2022-02-25,Phoenix,-330,-7.5,102,L,N,New Orleans,265,7.5,117,W,Y,224.5,under
+898,2022-02-25,Utah,-250,-6.0,114,W,N,Dallas,210,6.0,109,L,Y,215.5,over
+899,2022-02-25,Los Angeles Lakers,-120,-1.5,102,L,N,Los Angeles Clippers,100,1.5,105,W,Y,223.5,under
+900,2022-02-26,Detroit,420,10.5,104,L,Y,Boston,-605,-10.5,113,W,N,215.0,over
+901,2022-02-26,Atlanta,-140,-2.0,127,W,Y,Toronto,120,2.0,100,L,N,225.0,over
+902,2022-02-26,Cleveland,-330,-7.0,92,W,N,Washington,265,7.0,86,L,Y,209.0,under
+903,2022-02-26,Miami,-350,-7.5,133,W,N,San Antonio,275,7.5,129,L,Y,224.5,over
+904,2022-02-26,Chicago,-125,0.0,110,L,N,Memphis,105,0.0,116,W,Y,236.0,under
+905,2022-02-26,Milwaukee,-500,-9.5,123,L,N,Brooklyn,360,9.5,126,W,Y,234.5,over
+906,2022-02-26,Denver,-380,-8.5,115,W,N,Sacramento,290,8.5,110,L,Y,235.5,under
+907,2022-02-27,New York,320,7.0,109,L,N,Philadelphia,-430,-7.0,125,W,Y,215.5,over
+908,2022-02-27,Phoenix,110,-1.0,114,L,N,Utah,-130,1.0,118,W,Y,227.5,over
+909,2022-02-27,Indiana,280,7.0,128,W,Y,Boston,-360,-7.0,107,L,N,223.5,over
+910,2022-02-27,Charlotte,-605,-10.0,126,L,N,Detroit,420,10.0,127,W,Y,227.0,over
+911,2022-02-27,Houston,250,7.0,98,L,Y,Los Angeles Clippers,-300,-7.0,99,W,N,229.0,under
+912,2022-02-27,Golden State,-195,-4.0,101,L,N,Dallas,165,4.0,107,W,Y,219.0,under
+913,2022-02-27,Portland,290,8.0,92,L,N,Denver,-380,-8.0,124,W,Y,230.5,under
+914,2022-02-27,Los Angeles Lakers,-130,-2.0,95,L,N,New Orleans,110,2.0,123,W,Y,225.0,under
+915,2022-02-28,Cleveland,120,1.5,122,L,N,Minnesota,-140,-1.5,127,W,Y,222.5,over
+916,2022-02-28,Orlando,-115,-1.5,119,W,Y,Indiana,-105,1.5,103,L,N,229.5,under
+917,2022-02-28,Brooklyn,130,2.5,97,L,N,Toronto,-150,-2.5,133,W,Y,222.5,over
+918,2022-02-28,Miami,-165,-3.0,112,W,Y,Chicago,140,3.0,99,L,N,225.5,under
+919,2022-02-28,Memphis,-415,-8.5,118,W,Y,San Antonio,310,8.5,105,L,N,234.5,under
+920,2022-02-28,Milwaukee,-565,-10.0,130,W,Y,Charlotte,400,10.0,106,L,N,241.5,under
+921,2022-02-28,Oklahoma City,150,4.5,110,L,N,Sacramento,-175,-4.5,131,W,Y,222.5,over
+922,2022-03-01,Washington,-150,-4.0,116,W,N,Detroit,130,4.0,113,L,Y,217.5,over
+923,2022-03-01,Boston,-260,-6.5,107,W,Y,Atlanta,215,6.5,98,L,N,223.5,under
+924,2022-03-01,Toronto,-360,-8.5,109,W,N,Brooklyn,280,8.5,108,L,Y,219.5,under
+925,2022-03-01,Houston,240,7.0,100,L,N,Los Angeles Clippers,-290,-7.0,113,W,Y,229.5,under
+926,2022-03-01,Minnesota,105,0.0,129,W,Y,Golden State,-125,0.0,114,L,N,231.0,over
+927,2022-03-01,Los Angeles Lakers,180,5.5,104,L,Y,Dallas,-220,-5.5,109,W,N,217.0,under
+928,2022-03-02,Cleveland,-150,-3.0,98,L,N,Charlotte,130,3.0,119,W,Y,218.5,under
+929,2022-03-02,Orlando,-120,-2.0,114,L,N,Indiana,100,2.0,122,W,Y,232.0,over
+930,2022-03-02,Philadelphia,-605,-10.5,123,W,Y,New York,420,10.5,108,L,N,223.5,over
+931,2022-03-02,Houston,600,12.5,127,L,Y,Utah,-950,-12.5,132,W,N,232.5,over
+932,2022-03-02,Milwaukee,-185,-4.5,120,W,N,Miami,160,4.5,119,L,Y,227.0,over
+933,2022-03-02,New Orleans,-220,-5.0,125,W,Y,Sacramento,180,5.0,95,L,N,235.0,under
+934,2022-03-02,Denver,-1100,-13.5,107,L,N,Oklahoma City,650,13.5,119,W,Y,226.5,under
+935,2022-03-02,Phoenix,-1100,-13.0,120,W,Y,Portland,650,13.0,90,L,N,228.0,under
+936,2022-03-03,Atlanta,165,4.5,130,W,Y,Chicago,-195,-4.5,124,L,N,231.5,over
+937,2022-03-03,Boston,130,3.0,120,W,Y,Memphis,-150,-3.0,107,L,N,224.0,over
+938,2022-03-03,Brooklyn,135,3.5,107,L,N,Miami,-160,-3.5,113,W,Y,221.0,under
+939,2022-03-03,Toronto,-395,-8.5,106,L,N,Detroit,300,8.5,108,W,Y,216.5,under
+940,2022-03-03,Dallas,125,2.5,122,W,Y,Golden State,-145,-2.5,113,L,N,219.0,over
+941,2022-03-03,San Antonio,-245,-6.5,112,L,N,Sacramento,205,6.5,115,W,Y,238.0,under
+942,2022-03-03,Los Angeles Clippers,-140,-2.5,132,W,Y,Los Angeles Lakers,120,2.5,111,L,N,218.5,over
+943,2022-03-04,Detroit,140,3.5,111,W,Y,Indiana,-165,-3.5,106,L,N,230.5,under
+944,2022-03-04,Philadelphia,-340,-7.5,125,W,N,Cleveland,270,7.5,119,L,Y,219.5,over
+945,2022-03-04,Washington,145,3.0,114,L,p,Atlanta,-170,-3.0,117,W,p,221.5,over
+946,2022-03-04,Toronto,-360,-8.0,97,L,N,Orlando,280,8.0,103,W,Y,220.5,under
+947,2022-03-04,Chicago,140,3.5,112,L,N,Milwaukee,-165,-3.5,118,W,Y,238.0,under
+948,2022-03-04,New Orleans,140,3.5,124,W,Y,Utah,-165,-3.5,90,L,N,228.5,under
+949,2022-03-04,Oklahoma City,290,7.5,101,L,N,Minnesota,-380,-7.5,138,W,Y,230.5,over
+950,2022-03-04,Denver,-1100,-13.5,116,W,Y,Houston,650,13.5,101,L,N,233.5,under
+951,2022-03-04,Phoenix,-280,-6.5,115,W,N,New York,230,6.5,114,L,Y,224.5,over
+952,2022-03-05,Dallas,-340,-7.5,114,W,N,Sacramento,270,7.5,113,L,Y,221.5,over
+953,2022-03-05,Charlotte,-175,-3.5,123,W,Y,San Antonio,150,3.5,117,L,N,241.5,under
+954,2022-03-05,Miami,-115,-1.0,99,W,Y,Philadelphia,-105,1.0,82,L,N,220.5,under
+955,2022-03-05,Memphis,-1600,-15.5,124,W,Y,Orlando,800,15.5,96,L,N,231.5,under
+956,2022-03-05,Minnesota,-1000,-13.0,135,W,Y,Portland,625,13.0,121,L,N,232.5,over
+957,2022-03-05,Los Angeles Lakers,215,5.5,124,W,Y,Golden State,-260,-5.5,116,L,N,224.5,over
+958,2022-03-06,Boston,-170,-3.0,126,W,Y,Brooklyn,145,3.0,120,L,N,227.5,over
+959,2022-03-06,Milwaukee,-455,-7.5,132,W,Y,Phoenix,335,7.5,122,L,N,231.0,over
+960,2022-03-06,Washington,-165,-3.0,133,W,Y,Indiana,140,3.0,123,L,N,227.5,over
+961,2022-03-06,Houston,500,11.0,123,W,Y,Memphis,-750,-11.0,112,L,N,237.5,under
+962,2022-03-06,Oklahoma City,625,13.0,103,L,p,Utah,-1000,-13.0,116,W,p,223.5,under
+963,2022-03-06,Cleveland,-210,-4.5,104,W,Y,Toronto,175,4.5,96,L,N,210.0,under
+964,2022-03-06,Denver,-175,-3.5,138,W,Y,New Orleans,150,3.5,130,L,N,227.5,over
+965,2022-03-06,Los Angeles Clippers,-195,-4.0,93,L,N,New York,165,4.0,116,W,Y,217.0,under
+966,2022-03-07,Detroit,275,8.0,113,W,Y,Atlanta,-350,-8.0,110,L,N,227.5,under
+967,2022-03-07,Philadelphia,-270,-6.5,121,W,Y,Chicago,220,6.5,106,L,N,229.0,under
+968,2022-03-07,Miami,-1500,-15.5,123,W,Y,Houston,775,15.5,106,L,N,226.0,over
+969,2022-03-07,Minnesota,-1500,-15.0,124,W,Y,Portland,775,15.0,81,L,N,235.0,under
+970,2022-03-07,Dallas,-125,-1.5,111,W,Y,Utah,105,1.5,103,L,N,217.0,under
+971,2022-03-07,San Antonio,-140,-4.0,117,W,Y,Los Angeles Lakers,120,4.0,110,L,N,234.0,under
+972,2022-03-07,Denver,170,4.5,131,W,Y,Golden State,-200,-4.5,124,L,N,212.5,over
+973,2022-03-07,Sacramento,-165,-3.5,115,L,N,New York,140,3.5,131,W,Y,229.5,over
+974,2022-03-08,Charlotte,150,3.0,121,L,N,Brooklyn,-175,-3.0,132,W,Y,241.5,over
+975,2022-03-08,Indiana,165,4.5,124,L,Y,Cleveland,-195,-4.5,127,W,N,222.5,over
+976,2022-03-08,Orlando,250,7.5,99,L,Y,Phoenix,-300,-7.5,102,W,N,223.5,under
+977,2022-03-08,Memphis,-230,-5.5,132,W,Y,New Orleans,190,5.5,111,L,N,232.0,over
+978,2022-03-08,Oklahoma City,725,14.5,115,L,N,Milwaukee,-1300,-14.5,142,W,Y,231.0,over
+979,2022-03-08,Golden State,-300,-7.0,112,W,Y,Los Angeles Clippers,250,7.0,97,L,N,220.5,under
+980,2022-03-09,Charlotte,265,7.0,101,L,N,Boston,-330,-7.0,115,W,Y,227.0,under
+981,2022-03-09,Detroit,190,6.0,108,L,p,Chicago,-230,-6.0,114,W,p,226.0,under
+982,2022-03-09,Miami,-360,-8.5,90,L,N,Phoenix,280,8.5,111,W,Y,217.5,under
+983,2022-03-09,Milwaukee,-240,-5.5,124,W,Y,Atlanta,200,5.5,115,L,N,236.5,over
+984,2022-03-09,Houston,160,4.0,139,W,Y,Los Angeles Lakers,-185,-4.0,130,L,N,232.5,over
+985,2022-03-09,Minnesota,-1500,-14.5,132,W,Y,Oklahoma City,775,14.5,102,L,N,230.0,over
+986,2022-03-09,New Orleans,-380,-8.0,102,L,N,Orlando,290,8.0,108,W,Y,221.5,under
+987,2022-03-09,Dallas,-380,-8.0,77,L,N,New York,290,8.0,107,W,Y,215.5,under
+988,2022-03-09,San Antonio,100,1.0,104,L,N,Toronto,-120,-1.0,119,W,Y,227.5,under
+989,2022-03-09,Utah,-2200,-16.5,123,W,Y,Portland,1000,16.5,85,L,N,217.5,under
+990,2022-03-09,Sacramento,150,4.5,100,L,N,Denver,-175,-4.5,106,W,Y,237.0,under
+991,2022-03-09,Los Angeles Clippers,-195,-4.5,115,W,Y,Washington,165,4.5,109,L,N,220.0,over
+992,2022-03-10,Philadelphia,-200,-4.5,100,L,N,Brooklyn,170,4.5,129,W,Y,229.5,under
+993,2022-03-10,Denver,135,3.0,102,L,N,Golden State,-160,-3.0,113,W,Y,222.5,under
+994,2022-03-11,Orlando,260,7.0,118,W,Y,Minnesota,-320,-7.0,110,L,N,233.0,under
+995,2022-03-11,Atlanta,-230,-6.0,112,W,p,Los Angeles Clippers,190,6.0,106,L,p,228.5,under
+996,2022-03-11,Boston,-1400,-14.0,114,W,N,Detroit,750,14.0,103,L,Y,216.0,over
+997,2022-03-11,Miami,-235,-5.5,117,W,Y,Cleveland,195,5.5,105,L,N,209.5,over
+998,2022-03-11,Houston,475,11.0,100,L,N,Dallas,-700,-11.0,113,W,Y,225.5,under
+999,2022-03-11,Memphis,-455,-9.5,118,W,N,New York,335,9.5,114,L,Y,232.0,push
+1000,2022-03-11,New Orleans,105,-3.5,120,L,N,Charlotte,-125,3.5,142,W,Y,231.5,over
+1001,2022-03-11,San Antonio,240,6.5,104,W,Y,Utah,-290,-6.5,102,L,N,229.5,under
+1002,2022-03-11,Phoenix,-260,-5.5,112,L,N,Toronto,215,5.5,117,W,Y,220.5,over
+1003,2022-03-11,Los Angeles Lakers,-195,-4.5,122,W,Y,Washington,165,4.5,109,L,N,228.5,over
+1004,2022-03-12,Miami,-230,-5.5,104,L,N,Minnesota,190,5.5,113,W,Y,225.0,under
+1005,2022-03-12,Chicago,-165,-2.5,101,W,Y,Cleveland,140,2.5,91,L,N,221.0,under
+1006,2022-03-12,San Antonio,-225,-6.0,108,L,N,Indiana,185,6.0,119,W,Y,235.0,under
+1007,2022-03-12,Golden State,105,1.0,122,W,Y,Milwaukee,-125,-1.0,109,L,N,231.5,under
+1008,2022-03-12,Denver,-220,-5.5,115,L,N,Toronto,180,5.5,127,W,Y,225.0,over
+1009,2022-03-12,Utah,-605,-10.0,134,W,N,Sacramento,420,10.0,125,L,Y,231.5,over
+1010,2022-03-12,Portland,230,7.0,127,W,Y,Washington,-280,-7.0,118,L,N,219.0,over
+1011,2022-03-13,Brooklyn,-235,-5.5,110,W,N,New York,195,5.5,107,L,Y,224.5,under
+1012,2022-03-13,Detroit,200,5.0,102,L,Y,Los Angeles Clippers,-240,-5.0,106,W,N,218.0,under
+1013,2022-03-13,Boston,-210,-5.0,92,L,N,Dallas,175,5.0,95,W,Y,217.0,under
+1014,2022-03-13,Orlando,625,13.0,114,L,Y,Philadelphia,-1000,-13.0,116,W,N,223.0,over
+1015,2022-03-13,Atlanta,-665,-11.0,131,W,N,Indiana,450,11.0,128,L,Y,236.5,over
+1016,2022-03-13,New Orleans,-240,-6.0,130,W,Y,Houston,200,6.0,105,L,N,228.0,over
+1017,2022-03-13,Oklahoma City,625,12.5,118,L,Y,Memphis,-1000,-12.5,125,W,N,230.0,over
+1018,2022-03-13,Phoenix,-415,-8.5,140,W,Y,Los Angeles Lakers,310,8.5,111,L,N,228.0,over
+1019,2022-03-14,Cleveland,-220,-5.5,120,W,Y,Los Angeles Clippers,180,5.5,111,L,N,211.5,over
+1020,2022-03-14,Atlanta,-900,-12.0,122,W,N,Portland,575,12.0,113,L,Y,233.5,over
+1021,2022-03-14,Philadelphia,-210,-5.0,110,L,N,Denver,175,5.0,114,W,Y,221.5,over
+1022,2022-03-14,Oklahoma City,260,7.0,116,L,N,Charlotte,-320,-7.0,134,W,Y,231.0,over
+1023,2022-03-14,San Antonio,180,6.0,139,L,N,Minnesota,-220,-6.0,149,W,Y,238.5,over
+1024,2022-03-14,Golden State,-800,-12.0,126,W,Y,Washington,525,12.0,112,L,N,225.0,over
+1025,2022-03-14,Sacramento,165,4.5,112,W,Y,Chicago,-195,-4.5,103,L,N,235.0,under
+1026,2022-03-14,Utah,105,2.0,111,L,N,Milwaukee,-125,-2.0,117,W,Y,235.5,under
+1027,2022-03-14,Los Angeles Lakers,175,5.0,103,L,N,Toronto,-210,-5.0,114,W,Y,224.5,under
+1028,2022-03-15,Indiana,250,7.5,102,L,N,Memphis,-300,-7.5,135,W,Y,233.0,over
+1029,2022-03-15,Orlando,360,9.5,108,L,N,Brooklyn,-500,-9.5,150,W,Y,231.0,over
+1030,2022-03-15,Miami,-1000,-12.5,105,W,N,Detroit,625,12.5,98,L,Y,216.5,under
+1031,2022-03-15,New Orleans,190,5.5,115,L,N,Phoenix,-230,-5.5,131,W,Y,225.0,over
+1032,2022-03-16,Charlotte,-125,-1.5,116,W,Y,Atlanta,105,1.5,106,L,N,237.5,under
+1033,2022-03-16,Cleveland,150,4.0,114,L,p,Philadelphia,-175,-4.0,118,W,p,217.0,over
+1034,2022-03-16,Washington,190,5.5,109,L,N,Denver,-230,-5.5,127,W,Y,228.5,over
+1035,2022-03-16,Brooklyn,105,1.5,111,L,N,Dallas,-125,-1.5,113,W,Y,220.5,over
+1036,2022-03-16,New York,-625,-10.0,128,W,Y,Portland,430,10.0,98,L,N,225.0,over
+1037,2022-03-16,Houston,450,11.0,112,L,N,Phoenix,-665,-11.0,129,W,Y,235.5,over
+1038,2022-03-16,Minnesota,-395,-8.5,124,W,Y,Los Angeles Lakers,300,8.5,104,L,N,237.0,under
+1039,2022-03-16,San Antonio,-1200,-14.0,122,W,N,Oklahoma City,700,14.0,120,L,Y,234.5,over
+1040,2022-03-16,Utah,-270,-6.0,125,W,Y,Chicago,220,6.0,110,L,N,225.5,over
+1041,2022-03-16,Golden State,-160,-3.0,88,L,N,Boston,135,3.0,110,W,Y,221.5,under
+1042,2022-03-16,Sacramento,330,9.0,126,L,p,Milwaukee,-445,-9.0,135,W,p,240.5,over
+1043,2022-03-16,Los Angeles Clippers,125,2.5,100,L,N,Toronto,-145,-2.5,103,W,Y,218.0,under
+1044,2022-03-17,Orlando,-165,-3.5,120,L,N,Detroit,140,3.5,134,W,Y,219.0,over
+1045,2022-03-18,Philadelphia,-170,-4.0,111,W,Y,Dallas,145,4.0,101,L,N,222.0,under
+1046,2022-03-18,Atlanta,210,6.0,120,W,Y,Memphis,-250,-6.0,105,L,N,237.0,under
+1047,2022-03-18,Brooklyn,-1200,-13.5,128,W,N,Portland,700,13.5,123,L,Y,225.0,over
+1048,2022-03-18,Cleveland,120,2.5,119,W,Y,Denver,-140,-2.5,116,L,N,220.5,over
+1049,2022-03-18,New York,-195,-4.5,100,W,N,Washington,165,4.5,97,L,Y,223.5,under
+1050,2022-03-18,Toronto,-340,-8.5,123,L,N,Los Angeles Lakers,270,8.5,128,W,Y,224.5,over
+1051,2022-03-18,Miami,-1600,-15.0,120,W,N,Oklahoma City,800,15.0,108,L,Y,220.0,over
+1052,2022-03-18,Houston,130,3.0,118,L,p,Indiana,-150,-3.0,121,W,p,239.0,push
+1053,2022-03-18,San Antonio,-160,-3.5,91,L,N,New Orleans,135,3.5,124,W,Y,237.0,under
+1054,2022-03-18,Utah,-500,-10.0,121,W,Y,Los Angeles Clippers,360,10.0,92,L,N,220.5,under
+1055,2022-03-18,Phoenix,-290,-7.0,129,W,Y,Chicago,240,7.0,102,L,N,230.0,over
+1056,2022-03-18,Sacramento,285,8.5,97,L,N,Boston,-370,-8.5,126,W,Y,225.0,under
+1057,2022-03-19,Minnesota,120,2.5,138,W,Y,Milwaukee,-140,-2.5,119,L,N,242.5,over
+1058,2022-03-19,Charlotte,105,1.5,129,W,Y,Dallas,-125,-1.5,108,L,N,225.5,over
+1059,2022-03-19,Cleveland,-415,-8.5,113,W,N,Detroit,310,8.5,109,L,Y,216.0,over
+1060,2022-03-19,Washington,-130,-1.5,127,W,Y,Los Angeles Lakers,110,1.5,119,L,N,230.5,over
+1061,2022-03-20,Indiana,-320,-7.5,129,W,Y,Portland,260,7.5,98,L,N,232.5,under
+1062,2022-03-20,Houston,360,10.0,98,L,N,Memphis,-500,-10.0,122,W,Y,232.5,under
+1063,2022-03-20,Atlanta,-170,-3.5,112,L,N,New Orleans,145,3.5,117,W,Y,232.5,under
+1064,2022-03-20,Orlando,-210,-5.0,90,W,p,Oklahoma City,175,5.0,85,L,p,227.0,under
+1065,2022-03-20,Sacramento,380,10.0,124,L,Y,Phoenix,-530,-10.0,127,W,N,231.5,over
+1066,2022-03-20,New York,175,5.0,93,L,N,Utah,-210,-5.0,108,W,Y,222.5,under
+1067,2022-03-20,Denver,130,3.0,104,L,N,Boston,-150,-3.0,124,W,Y,221.5,over
+1068,2022-03-20,Philadelphia,-230,-5.5,88,L,N,Toronto,190,5.5,93,W,Y,223.5,under
+1069,2022-03-20,Golden State,-230,-6.5,108,L,N,San Antonio,190,6.5,110,W,Y,229.0,under
+1070,2022-03-21,Charlotte,-230,-6.0,106,W,N,New Orleans,190,6.0,103,L,Y,234.0,under
+1071,2022-03-21,Cleveland,-250,-6.0,120,L,N,Los Angeles Lakers,210,6.0,131,W,Y,223.5,over
+1072,2022-03-21,Detroit,-290,-7.0,115,L,N,Portland,240,7.0,119,W,Y,223.0,over
+1073,2022-03-21,Philadelphia,105,1.5,113,W,Y,Miami,-125,-1.5,106,L,N,216.5,over
+1074,2022-03-21,Brooklyn,-120,-1.0,114,W,Y,Utah,100,1.0,106,L,N,229.5,under
+1075,2022-03-21,Chicago,-175,-4.0,113,W,Y,Toronto,150,4.0,99,L,N,225.0,under
+1076,2022-03-21,Houston,175,5.0,115,W,Y,Washington,-210,-5.0,97,L,N,234.5,under
+1077,2022-03-21,Oklahoma City,700,13.5,123,L,Y,Boston,-1200,-13.5,132,W,N,216.0,over
+1078,2022-03-21,Dallas,-160,-3.5,110,W,N,Minnesota,135,3.5,108,L,Y,230.0,under
+1079,2022-03-22,Orlando,300,8.5,94,W,Y,Golden State,-395,-8.5,90,L,N,215.0,under
+1080,2022-03-22,New York,110,2.0,111,L,N,Atlanta,-130,-2.0,117,W,Y,225.5,over
+1081,2022-03-22,Milwaukee,-230,-5.5,126,W,Y,Chicago,190,5.5,98,L,N,231.5,under
+1082,2022-03-22,Denver,-300,-6.5,127,W,Y,Los Angeles Clippers,250,6.5,115,L,N,219.5,over
+1083,2022-03-23,Charlotte,-275,-6.5,106,L,N,New York,225,6.5,121,W,Y,226.0,over
+1084,2022-03-23,Detroit,210,6.0,122,W,Y,Atlanta,-250,-6.0,101,L,N,224.5,under
+1085,2022-03-23,Indiana,-260,-6.0,109,L,N,Sacramento,215,6.0,110,W,Y,237.0,under
+1086,2022-03-23,Boston,-270,-6.5,125,W,Y,Utah,220,6.5,97,L,N,220.5,over
+1087,2022-03-23,Miami,-235,-5.5,104,L,N,Golden State,195,5.5,118,W,Y,214.5,over
+1088,2022-03-23,Memphis,130,3.0,132,W,Y,Brooklyn,-150,-3.0,120,L,N,234.5,over
+1089,2022-03-23,Minnesota,110,2.0,116,L,N,Phoenix,-130,-2.0,125,W,Y,234.5,over
+1090,2022-03-23,Oklahoma City,-105,1.0,118,W,Y,Orlando,-115,-1.0,102,L,N,220.0,push
+1091,2022-03-23,Dallas,-415,-8.5,110,W,Y,Houston,310,8.5,91,L,N,226.0,under
+1092,2022-03-23,Los Angeles Lakers,240,7.0,121,L,Y,Philadelphia,-290,-7.0,126,W,N,227.5,over
+1093,2022-03-23,Portland,220,6.5,96,L,N,San Antonio,-270,-6.5,133,W,Y,233.5,under
+1094,2022-03-24,Toronto,-165,-3.5,117,W,Y,Cleveland,140,3.5,104,L,N,215.0,over
+1095,2022-03-24,Memphis,-900,-12.5,133,W,Y,Indiana,575,12.5,103,L,N,235.5,over
+1096,2022-03-24,Milwaukee,-1000,-12.0,114,W,p,Washington,625,12.0,102,L,p,233.0,under
+1097,2022-03-24,New Orleans,100,1.0,126,W,Y,Chicago,-120,-1.0,109,L,N,228.5,over
+1098,2022-03-24,Denver,-160,-3.0,130,L,N,Phoenix,135,3.0,140,W,Y,231.0,over
+1099,2022-03-25,Charlotte,135,3.5,107,W,Y,Utah,-160,-3.5,101,L,N,231.5,under
+1100,2022-03-25,Detroit,-140,-2.5,97,L,N,Washington,120,2.5,100,W,Y,218.0,under
+1101,2022-03-25,Atlanta,-130,-2.0,121,W,Y,Golden State,110,2.0,110,L,N,220.0,over
+1102,2022-03-25,Miami,-235,-5.5,103,L,N,New York,195,5.5,111,W,Y,215.5,under
+1103,2022-03-25,Minnesota,-120,-1.5,116,W,Y,Dallas,100,1.5,95,L,N,227.5,under
+1104,2022-03-25,Portland,140,3.5,106,L,N,Houston,-165,-3.5,125,W,Y,235.5,under
+1105,2022-03-25,Los Angeles Clippers,195,5.5,97,L,N,Philadelphia,-235,-5.5,122,W,Y,221.5,under
+1106,2022-03-26,New Orleans,-220,-5.0,103,L,N,San Antonio,180,5.0,107,W,Y,234.0,under
+1107,2022-03-26,Orlando,-150,-3.0,110,L,N,Sacramento,130,3.0,114,W,Y,224.0,push
+1108,2022-03-26,Toronto,-500,-9.0,131,W,Y,Indiana,360,9.0,91,L,N,227.0,under
+1109,2022-03-26,Cleveland,-115,-1.0,94,L,N,Chicago,-105,1.0,98,W,Y,220.5,under
+1110,2022-03-26,Miami,135,2.0,95,L,N,Brooklyn,-160,-2.0,110,W,Y,227.0,under
+1111,2022-03-26,Memphis,-130,-2.0,127,W,Y,Milwaukee,110,2.0,102,L,N,226.0,over
+1112,2022-03-26,Denver,-1300,-13.5,113,W,N,Oklahoma City,725,13.5,107,L,Y,226.0,under
+1113,2022-03-26,Portland,165,4.5,98,L,N,Houston,-195,-4.5,115,W,Y,232.5,under
+1114,2022-03-27,Detroit,160,4.5,102,L,Y,New York,-185,-4.5,104,W,N,220.0,under
+1115,2022-03-27,Boston,-240,-6.0,134,W,Y,Minnesota,200,6.0,112,L,N,227.5,over
+1116,2022-03-27,Washington,250,7.5,123,W,Y,Golden State,-300,-7.5,115,L,N,221.5,over
+1117,2022-03-27,Phoenix,-200,-5.0,114,W,Y,Philadelphia,170,5.0,104,L,N,229.5,under
+1118,2022-03-27,New Orleans,-160,-3.0,116,W,Y,Los Angeles Lakers,135,3.0,108,L,N,229.0,under
+1119,2022-03-27,Brooklyn,-290,-6.5,110,L,N,Charlotte,240,6.5,119,W,Y,238.0,under
+1120,2022-03-27,Dallas,-135,-2.5,114,W,Y,Utah,115,2.5,100,L,N,221.0,under
+1121,2022-03-28,Charlotte,150,3.5,109,L,N,Denver,-175,-3.5,113,W,Y,231.5,under
+1122,2022-03-28,Cleveland,-530,-10.0,107,W,N,Orlando,380,10.0,101,L,Y,214.0,under
+1123,2022-03-28,Indiana,255,7.0,123,L,N,Atlanta,-310,-7.0,132,W,Y,235.0,over
+1124,2022-03-28,Miami,-1000,-13.0,123,W,Y,Sacramento,625,13.0,100,L,N,219.5,over
+1125,2022-03-28,New York,160,4.5,109,W,Y,Chicago,-185,-4.5,104,L,N,223.5,under
+1126,2022-03-28,Toronto,-120,2.0,115,W,Y,Boston,100,-2.0,112,L,N,219.5,over
+1127,2022-03-28,Houston,220,6.5,120,L,Y,San Antonio,-270,-6.5,123,W,N,237.5,over
+1128,2022-03-28,Memphis,-555,-7.5,123,W,Y,Golden State,395,7.5,95,L,N,224.5,under
+1129,2022-03-28,Portland,125,3.5,131,L,Y,Oklahoma City,-145,-3.5,134,W,N,222.5,over
+1130,2022-03-29,Philadelphia,-125,-2.0,116,L,N,Milwaukee,105,2.0,118,W,Y,227.5,over
+1131,2022-03-29,Washington,130,3.0,94,L,N,Chicago,-150,-3.0,107,W,Y,224.5,under
+1132,2022-03-29,Brooklyn,-1100,-12.5,130,W,N,Detroit,650,12.5,123,L,Y,229.5,over
+1133,2022-03-29,Dallas,-750,-11.5,128,W,Y,Los Angeles Lakers,500,11.5,110,L,N,219.0,over
+1134,2022-03-29,Los Angeles Clippers,-115,-1.0,121,W,Y,Utah,-105,1.0,115,L,N,216.0,over
+1135,2022-03-30,Cleveland,150,4.0,112,L,N,Dallas,-175,-4.0,120,W,Y,213.5,over
+1136,2022-03-30,Indiana,335,9.5,118,L,Y,Denver,-455,-9.5,125,W,N,232.0,over
+1137,2022-03-30,Washington,-175,-4.0,127,W,Y,Orlando,150,4.0,110,L,N,222.0,over
+1138,2022-03-30,Boston,-210,-5.0,98,L,N,Miami,175,5.0,106,W,Y,214.5,under
+1139,2022-03-30,New York,105,2.0,114,L,N,Charlotte,-125,-2.0,125,W,Y,226.0,over
+1140,2022-03-30,Toronto,-150,-3.0,125,W,Y,Minnesota,130,3.0,102,L,N,228.5,under
+1141,2022-03-30,Houston,115,2.5,118,L,N,Sacramento,-135,-2.5,121,W,Y,233.0,over
+1142,2022-03-30,Oklahoma City,500,11.5,118,L,N,Atlanta,-750,-11.5,136,W,Y,228.5,over
+1143,2022-03-30,San Antonio,210,6.5,111,L,Y,Memphis,-250,-6.5,112,W,N,231.0,under
+1144,2022-03-30,Golden State,225,6.5,103,L,Y,Phoenix,-275,-6.5,107,W,N,224.5,under
+1145,2022-03-30,Portland,550,12.0,107,L,Y,New Orleans,-850,-12.0,117,W,N,228.5,under
+1146,2022-03-31,Detroit,410,11.0,102,W,Y,Philadelphia,-585,-11.0,94,L,N,222.5,under
+1147,2022-03-31,Atlanta,-160,-3.5,131,W,Y,Cleveland,135,3.5,107,L,N,214.5,over
+1148,2022-03-31,Brooklyn,-130,-1.5,119,L,N,Milwaukee,110,1.5,120,W,Y,238.0,over
+1149,2022-03-31,Chicago,-170,-3.5,135,W,Y,Los Angeles Clippers,145,3.5,130,L,N,223.5,over
+1150,2022-03-31,Utah,-625,-11.5,122,W,Y,Los Angeles Lakers,430,11.5,109,L,N,225.0,over
+1151,2022-04-01,Orlando,390,9.5,89,L,N,Toronto,-545,-9.5,102,W,Y,218.5,under
+1152,2022-04-01,Washington,310,8.5,135,W,Y,Dallas,-415,-8.5,103,L,N,220.5,over
+1153,2022-04-01,Boston,-1600,-14.5,128,W,N,Indiana,800,14.5,123,L,Y,221.5,over
+1154,2022-04-01,Houston,110,2.0,117,L,N,Sacramento,-130,-2.0,122,W,Y,232.0,over
+1155,2022-04-01,Memphis,255,2.5,122,W,Y,Phoenix,-310,-2.5,114,L,N,230.0,over
+1156,2022-04-01,Milwaukee,-395,-8.0,119,L,N,Los Angeles Clippers,300,8.0,153,W,Y,232.0,over
+1157,2022-04-01,Oklahoma City,160,4.0,101,L,N,Detroit,-185,-4.0,110,W,Y,220.0,under
+1158,2022-04-01,San Antonio,-1900,-14.5,130,W,Y,Portland,900,14.5,111,L,N,231.0,over
+1159,2022-04-01,Denver,-185,-4.0,130,L,N,Minnesota,160,4.0,136,W,Y,234.5,over
+1160,2022-04-01,Los Angeles Lakers,-140,-2.0,111,L,N,New Orleans,120,2.0,114,W,Y,234.0,under
+1161,2022-04-02,Philadelphia,-230,-5.5,144,W,Y,Charlotte,190,5.5,114,L,N,231.5,over
+1162,2022-04-02,New York,110,2.0,101,L,N,Cleveland,-130,-2.0,119,W,Y,214.5,over
+1163,2022-04-02,Atlanta,100,1.0,122,W,Y,Brooklyn,-120,-1.0,115,L,N,241.5,under
+1164,2022-04-02,Chicago,110,2.0,109,L,N,Miami,-130,-2.0,127,W,Y,220.5,over
+1165,2022-04-02,Golden State,105,1.5,111,W,Y,Utah,-125,-1.5,107,L,N,219.0,under
+1166,2022-04-03,Boston,-900,-12.5,144,W,Y,Washington,575,12.5,102,L,N,221.5,over
+1167,2022-04-03,Milwaukee,-210,-5.0,112,L,N,Dallas,175,5.0,118,W,Y,227.5,over
+1168,2022-04-03,Los Angeles Lakers,130,3.0,118,L,N,Denver,-150,-3.0,129,W,Y,230.5,over
+1169,2022-04-03,Indiana,-135,-2.0,117,L,N,Detroit,115,2.0,121,W,Y,232.0,over
+1170,2022-04-03,Cleveland,160,4.5,108,L,Y,Philadelphia,-185,-4.5,112,W,N,224.5,under
+1171,2022-04-03,Orlando,160,4.5,88,L,N,New York,-185,-4.5,118,W,Y,216.0,under
+1172,2022-04-03,Toronto,-165,-3.0,109,L,N,Miami,140,3.0,114,W,Y,212.5,over
+1173,2022-04-03,Houston,575,12.5,132,L,Y,Minnesota,-900,-12.5,139,W,N,243.0,over
+1174,2022-04-03,Oklahoma City,700,14.5,117,W,Y,Phoenix,-1200,-14.5,96,L,N,224.5,under
+1175,2022-04-03,San Antonio,-1200,-14.5,113,W,Y,Portland,700,14.5,92,L,N,231.5,under
+1176,2022-04-03,Sacramento,210,6.5,90,L,N,Golden State,-250,-6.5,109,W,Y,224.5,under
+1177,2022-04-03,Los Angeles Clippers,-135,-2.5,119,W,Y,New Orleans,115,2.5,100,L,N,223.0,under
+1178,2022-04-05,Indiana,525,12.5,122,L,Y,Philadelphia,-800,-12.5,131,W,N,231.5,over
+1179,2022-04-05,Orlando,280,8.5,120,W,Y,Cleveland,-360,-8.5,115,L,N,214.5,over
+1180,2022-04-05,Brooklyn,-2500,-18.5,118,W,N,Houston,1050,18.5,105,L,Y,244.5,under
+1181,2022-04-05,Miami,-210,-5.0,144,W,Y,Charlotte,175,5.0,115,L,N,224.5,over
+1182,2022-04-05,Toronto,-175,-4.0,118,W,Y,Atlanta,150,4.0,108,L,N,226.5,under
+1183,2022-04-05,Chicago,145,3.5,106,L,N,Milwaukee,-170,-3.5,127,W,Y,229.0,over
+1184,2022-04-05,Minnesota,-655,-11.5,114,L,N,Washington,445,11.5,132,W,Y,233.5,over
+1185,2022-04-05,Oklahoma City,-160,-3.5,98,W,Y,Portland,135,3.5,94,L,N,223.0,under
+1186,2022-04-05,Denver,-235,-6.0,97,L,N,San Antonio,195,6.0,116,W,Y,237.0,under
+1187,2022-04-05,Utah,-210,-5.5,121,W,Y,Memphis,175,5.5,115,L,N,221.0,over
+1188,2022-04-05,Sacramento,265,7.5,109,L,N,New Orleans,-330,-7.5,123,W,Y,227.0,over
+1189,2022-04-05,Phoenix,-700,-11.5,121,W,N,Los Angeles Lakers,475,11.5,110,L,Y,232.5,under
+1190,2022-04-06,Detroit,335,9.0,113,L,N,Dallas,-455,-9.0,131,W,Y,220.0,over
+1191,2022-04-06,New York,250,7.0,98,L,N,Brooklyn,-300,-7.0,110,W,Y,232.0,under
+1192,2022-04-06,Atlanta,-565,-10.5,118,W,Y,Washington,400,10.5,103,L,N,230.0,under
+1193,2022-04-06,Chicago,220,6.5,94,L,N,Boston,-270,-6.5,117,W,Y,224.0,under
+1194,2022-04-06,Utah,-1900,-17.0,137,W,Y,Oklahoma City,900,17.0,101,L,N,224.5,over
+1195,2022-04-06,Los Angeles Clippers,-105,1.0,113,W,Y,Phoenix,-115,-1.0,109,L,N,226.0,under
