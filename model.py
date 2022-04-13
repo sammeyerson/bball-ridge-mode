@@ -5,7 +5,58 @@ from sklearn.metrics import accuracy_score
 from sklearn.linear_model import Ridge
 from sklearn.model_selection import train_test_split
 from datetime import date, datetime
+from tqdm import tqdm
 
+try:
+    from constants import TEAM_TO_TEAM_ABBR
+except:
+    print('Abbreviations not found')
+
+
+def splitForPlayer(df, old_df, player = 'Kyrie Irving', team = 'Brooklyn'):
+
+    team_abbrev = [value for key, value in TEAM_TO_TEAM_ABBR.items() if team.lower() in key.lower()][0]
+    player_mins = pd.read_csv('teams_mins/'+team_abbrev+'.csv')
+    game_count = 0
+    dates_played_in = []
+    itt = 0
+    for player_name in player_mins.columns:
+        if player.lower() in player_name.lower():
+            break
+        itt += 1
+
+    for row in player_mins.values:
+        player_mins_game = row[itt]
+        date = row[1]
+
+        if player_mins_game > 0:
+            dates_played_in.append(date)
+            game_count +=1
+
+    team_name = team
+    team_data = df[[team_name, 'point_difference']]
+    df = df.drop([team_name], axis=1)
+    ind = 0
+    with_player = []
+    without_player = []
+    for row in team_data.values:
+        played = row[0]
+        point_diff = row[1]
+        old_df_row = old_df.iloc[ind]
+        date_game = old_df_row['Date']
+        if date_game in dates_played_in:
+            with_player.append(played)
+            without_player.append(0)
+        else:
+            with_player.append(0)
+            without_player.append(played)
+
+        ind += 1
+    columnn_name_with = team+  ' (w/ ' + player + ')'
+    columnn_name_without = team + ' (w/o ' + player + ')'
+    df[columnn_name_with] = with_player
+    df[columnn_name_without] = without_player
+    return df
 
 def model_data_matrix(df):
 
@@ -18,6 +69,13 @@ def model_data_matrix(df):
     }
 
     df_model_data['point_difference'] = df['Point Differential']
+
+    player = 'Bam Adebayo'
+    team = 'Miami'
+    df_model_data = splitForPlayer(df_model_data, df, player, team)
+    #^select a player and team to split that team into game with/without the player
+    #this will measure how much better/worse the team is with/without the player
+
     return df_model_data
 
 def ridge_model(df):
@@ -188,8 +246,8 @@ def model(df):
     return df_sorted
 
 def main():
-    files = ['nbaData.csv', 'nbaData_21.csv', 'nbaData_20.csv']
-    df = pd.read_csv(files[0])
+    file = 'nbaData.csv'
+    df = pd.read_csv(file)
     test_num = 10
     test_edge = 1
     df_test = test_model(df, test_num, test_edge)

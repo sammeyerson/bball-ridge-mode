@@ -1194,3 +1194,38 @@ Game Number,Date,Home Team,Home Money Line,Home Spread,Home Score,Home W/L,Home 
 1193,2022-04-06,Chicago,220,6.5,94,L,N,Boston,-270,-6.5,117,W,Y,224.0,under
 1194,2022-04-06,Utah,-1900,-17.0,137,W,Y,Oklahoma City,900,17.0,101,L,N,224.5,over
 1195,2022-04-06,Los Angeles Clippers,-105,1.0,113,W,Y,Phoenix,-115,-1.0,109,L,N,226.0,under
+1196,2022-04-07,Charlotte,-1100,-13.5,128,W,Y,Orlando,650,13.5,101,L,N,227.5,over
+1197,2022-04-07,Toronto,-125,-1.5,119,W,Y,Philadelphia,105,1.5,114,L,N,215.5,over
+1198,2022-04-07,Milwaukee,-230,-5.5,127,W,Y,Boston,190,5.5,121,L,N,227.5,over
+1199,2022-04-07,Minnesota,-395,-8.5,127,W,N,San Antonio,300,8.5,121,L,Y,237.5,over
+1200,2022-04-07,New Orleans,-2200,-16.5,127,W,Y,Portland,1000,16.5,94,L,N,223.0,under
+1201,2022-04-07,Denver,-150,-3.0,122,W,Y,Memphis,130,3.0,109,L,N,232.5,under
+1202,2022-04-07,Golden State,-950,-12.5,128,W,Y,Los Angeles Lakers,600,12.5,112,L,N,221.5,over
+1203,2022-04-08,Detroit,215,5.5,101,L,N,Milwaukee,-260,-5.5,131,W,Y,227.0,over
+1204,2022-04-08,Washington,-115,-1.0,92,L,N,New York,-105,1.0,114,W,Y,220.5,under
+1205,2022-04-08,Brooklyn,-280,-6.5,118,W,Y,Cleveland,230,6.5,107,L,N,228.0,under
+1206,2022-04-08,Toronto,-1400,-14.5,117,W,N,Houston,750,14.5,115,L,Y,228.0,over
+1207,2022-04-08,Miami,-140,-3.0,113,W,Y,Atlanta,120,3.0,109,L,N,228.5,under
+1208,2022-04-08,Chicago,-140,-2.0,117,L,N,Charlotte,120,2.0,133,W,Y,227.5,over
+1209,2022-04-08,Dallas,-2200,-18.0,128,W,Y,Portland,1000,18.0,78,L,N,221.5,under
+1210,2022-04-08,Utah,-145,-2.5,105,L,N,Phoenix,125,2.5,111,W,Y,226.0,under
+1211,2022-04-08,Los Angeles Lakers,-380,-9.0,120,W,Y,Oklahoma City,290,9.0,101,L,N,227.5,under
+1212,2022-04-09,Philadelphia,-1000,-14.5,133,W,N,Indiana,625,14.5,120,L,Y,234.0,over
+1213,2022-04-09,Memphis,-240,-5.5,141,W,Y,New Orleans,200,5.5,114,L,N,232.5,over
+1214,2022-04-09,San Antonio,230,6.5,94,L,Y,Golden State,-280,-6.5,100,W,N,221.5,under
+1215,2022-04-09,Los Angeles Clippers,-700,-11.5,117,W,Y,Sacramento,475,11.5,98,L,N,225.5,under
+1216,2022-04-10,Brooklyn,-2500,-16.5,134,W,N,Indiana,1000,16.5,126,L,Y,238.5,over
+1217,2022-04-10,Charlotte,-1100,-13.5,124,W,Y,Washington,650,13.5,108,L,N,231.5,over
+1218,2022-04-10,Cleveland,-395,-8.5,133,W,Y,Milwaukee,300,8.5,115,L,N,223.5,over
+1219,2022-04-10,Houston,445,11.0,114,L,N,Atlanta,-655,-11.0,130,W,Y,238.0,over
+1220,2022-04-10,Memphis,215,5.5,110,L,N,Boston,-260,-5.5,139,W,Y,228.5,over
+1221,2022-04-10,New York,170,5.0,105,W,Y,Toronto,-200,-5.0,94,L,N,224.0,under
+1222,2022-04-10,Orlando,335,9.5,125,W,Y,Miami,-455,-9.5,111,L,N,218.5,over
+1223,2022-04-10,Philadelphia,-900,-12.0,118,W,p,Detroit,575,12.0,106,L,p,232.5,under
+1224,2022-04-10,Minnesota,-330,-7.5,120,L,N,Chicago,265,7.5,124,W,Y,231.0,over
+1225,2022-04-10,Portland,850,17.5,80,L,N,Utah,-1700,-17.5,111,W,Y,223.0,under
+1226,2022-04-10,Dallas,-555,10.5,130,W,Y,San Antonio,395,-10.5,120,L,N,224.5,over
+1227,2022-04-10,Denver,-555,-8.0,141,L,N,Los Angeles Lakers,395,8.0,146,W,Y,229.0,over
+1228,2022-04-10,Los Angeles Clippers,-555,-10.5,138,W,Y,Oklahoma City,395,10.5,88,L,N,220.5,over
+1229,2022-04-10,New Orleans,170,5.0,107,L,N,Golden State,-200,-5.0,128,W,Y,223.5,over
+1230,2022-04-10,Phoenix,-1000,-13.5,109,L,N,Sacramento,625,13.5,116,W,Y,231.5,under
