@@ -2,7 +2,7 @@ from operator import mul
 import pandas as pd
 import numpy as np
 from sklearn.metrics import accuracy_score
-from sklearn.linear_model import Ridge
+from sklearn.linear_model import Ridge, Lasso
 from sklearn.model_selection import train_test_split
 from datetime import date, datetime
 from tqdm import tqdm
@@ -70,8 +70,8 @@ def model_data_matrix(df):
 
     df_model_data['point_difference'] = df['Point Differential']
 
-    player = 'Bam Adebayo'
-    team = 'Miami'
+    player = 'Klay Thompson'
+    team = 'Golden State'
     df_model_data = splitForPlayer(df_model_data, df, player, team)
     #^select a player and team to split that team into game with/without the player
     #this will measure how much better/worse the team is with/without the player
@@ -79,7 +79,9 @@ def model_data_matrix(df):
     return df_model_data
 
 def ridge_model(df):
+
     lr = Ridge(alpha=0.001)
+
     X = df.drop(['point_difference'], axis=1)
     y = df['point_difference']
     lr.fit(X, y)
@@ -88,7 +90,7 @@ def ridge_model(df):
     return df_ratings_sorted
 
 
-def cross_validation2(df_test, df_model_data, edge_threshold, df):
+def cross_validation(df_test, df_model_data, edge_threshold, df):
     model_ats_accuracy = []
     model_wl_accuracy = []
     test_count = 0
@@ -96,6 +98,7 @@ def cross_validation2(df_test, df_model_data, edge_threshold, df):
     df_test = df_test.drop(['point_difference'], axis=1)
     columns = list(df_test)
     for index, row in df_test.iterrows():
+        #need iterrows to refernce column by name, not int
         home_team = ""
         away_team = ""
         df_with_spread = df.loc[df['Game Number'] == index+1]
@@ -106,6 +109,8 @@ def cross_validation2(df_test, df_model_data, edge_threshold, df):
             elif (cell==-1):
                 away_team = column
         home_team_rating = df_model_data.loc[df_model_data['team'] == home_team].iloc[0]['rating']
+        #home_team_rating += 3.. potential weight for home court advantage
+        #^actually hurt cross val accuracy
         away_team_rating = df_model_data.loc[df_model_data['team'] == away_team].iloc[0]['rating']
         home_team_implied_spread = (float(home_team_rating) - float(away_team_rating)) * -1
         home_spread = df_with_spread['Home Spread'].iloc[0]
@@ -118,8 +123,6 @@ def cross_validation2(df_test, df_model_data, edge_threshold, df):
                     bet_home_team_to_cover = True
                     #if the model thinks a team should be favored by more than they really are,
                     #bet them
-
-
             edge = (home_team_implied_spread - home_spread) * -1.0
             #edge that model finds over actual spread
             if edge > edge_threshold:
@@ -209,7 +212,7 @@ def test_model(df, itt, edge):
         df_sorted = ridge_model(df_train).reset_index(drop=True)
         edge = 1
 
-        ats_correct = cross_validation2(df_test, df_sorted, edge, df)
+        ats_correct = cross_validation(df_test, df_sorted, edge, df)
         total_perc_correct+=ats_correct
         run_count+=1
 
@@ -228,6 +231,7 @@ def model(df):
     row_num = df_model_data.shape[0]
 
     for index, row in df_model_data.iterrows():
+        #need iterrows for index, keep original index for weight of recent games
 
         if(index > (row_num*0.8)):
             df_duplicate_rows= df_duplicate_rows.append([row]*7)
