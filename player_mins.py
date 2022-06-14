@@ -5,7 +5,7 @@ import numpy as np
 import lxml.html as lh
 import urllib.request
 import requests
-import unidecode
+from unidecode import unidecode
 
 
 try:
@@ -48,7 +48,7 @@ def get_player_mins(df):
         date = date[:4] + "-" + date[4:6] + "-"+date[6:]
         team_file.at[row_num, 'Date'] = date
         for row in rows:
-            player = row[0].text_content()
+            player = unidecode(row[0].text_content())
             mins_played = row[1].text_content()
             if(player!="Reserves"):
                 if "Did" in mins_played or "Not" in mins_played or "Suspended" in mins_played:
@@ -71,7 +71,7 @@ def get_player_mins(df):
         date = date[:4] + "-" + date[4:6] + "-"+date[6:]
         team_file.at[row_num, 'Date'] = date
         for row in rows:
-            player = row[0].text_content()
+            player = unidecode(row[0].text_content())
             mins_played = row[1].text_content()
             if(player!="Reserves"):
                 if "Did" in mins_played or "Not" in mins_played or "Suspended" in mins_played:
@@ -89,7 +89,10 @@ def get_player_mins(df):
 def get_team_rosters():
     #get all team rosters to csv file for each team
     team_abbreviations = list(TEAM_TO_TEAM_ABBR.values())
+
+
     year = '2022'
+
     for team in team_abbreviations:
         fileName = "teams/"+ team +".csv"
         url ='https://www.basketball-reference.com/teams/'+team+'/' + year + '.html'
@@ -98,7 +101,7 @@ def get_team_rosters():
         rows = doc.xpath("//table/tbody")[1]
         columns = ['','Date']
         for row in rows:
-            player = unidecode.unidecode(row[1].text_content())
+            player = unidecode(row[1].text_content())
             columns.append(player)
         with open(fileName, 'w') as file:
             wr = csv.writer(file)

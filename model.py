@@ -70,9 +70,9 @@ def model_data_matrix(df):
 
     df_model_data['point_difference'] = df['Point Differential']
 
-    player = 'Klay Thompson'
-    team = 'Golden State'
-    df_model_data = splitForPlayer(df_model_data, df, player, team)
+    player = 'Gabe Vincent'
+    team = 'Miami'
+    #df_model_data = splitForPlayer(df_model_data, df, player, team)
     #^select a player and team to split that team into game with/without the player
     #this will measure how much better/worse the team is with/without the player
 
@@ -177,6 +177,7 @@ def cross_validation(df_test, df_model_data, edge_threshold, df):
     number_correct = model_wl_accuracy.count(True)
     number_incorrect = model_wl_accuracy.count(False)
     percent_correct = number_correct / (number_correct + number_incorrect)
+    print("Test accuracy straigt up: {}".format(percent_correct))
 
     return percent_correct_ats
 
@@ -252,12 +253,12 @@ def model(df):
 def main():
     file = 'nbaData.csv'
     df = pd.read_csv(file)
-    test_num = 10
+    test_num = 5
     test_edge = 1
     df_test = test_model(df, test_num, test_edge)
-    print("Test average accuracy based on {} test runs: {}".format(test_num, df_test))
+    #print("Test average accuracy based on {} test runs: {}".format(test_num, df_test))
     df_model_results = model(df)
-    print("Model: {}".format(df_model_results))
+    print("Model: \n{}".format(df_model_results))
     #df_model_results holds coefficients representing how much better a team is than league average
     #for example: if Boston is 9.5 and Detroit is -5.5 then the model thinks the spread should be Boston -15
     #obviously many factors go into a spread and more hyperparameters will be added over time to finetune
